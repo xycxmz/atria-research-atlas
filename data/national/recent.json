@@ -1,0 +1,1142 @@
+{
+ "RECENT_YEARS": [
+  {
+   "year": 2023,
+   "source": "郝红全等，中国科学基金 2024：2023 年度申请、评审与资助综述。面上、地区分学部与全国合计逐项加总一致。",
+   "allFunded": 52547,
+   "allFundingYi": 318.79,
+   "received": 316982,
+   "accepted": 315497,
+   "batchReceived": 304333,
+   "batchAccepted": null,
+   "batchFunded": null,
+   "depts": [
+    {
+     "dept": "数学物理科学部",
+     "general": {
+      "apply": 8703,
+      "funded": 1872,
+      "fundingWan": 93630,
+      "intensity": 50.02
+     },
+     "youth": {
+      "apply": 8795,
+      "funded": 2281,
+      "fundingWan": 67620,
+      "intensity": null
+     },
+     "regional": {
+      "apply": 1341,
+      "funded": 243,
+      "fundingWan": 7120,
+      "intensity": 29.3
+     }
+    },
+    {
+     "dept": "化学科学部",
+     "general": {
+      "apply": 9694,
+      "funded": 2015,
+      "fundingWan": 100730,
+      "intensity": 49.99
+     },
+     "youth": {
+      "apply": 11143,
+      "funded": 2091,
+      "fundingWan": 61890,
+      "intensity": null
+     },
+     "regional": {
+      "apply": 1847,
+      "funded": 299,
+      "fundingWan": 9568,
+      "intensity": 32
+     }
+    },
+    {
+     "dept": "生命科学部",
+     "general": {
+      "apply": 17005,
+      "funded": 3188,
+      "fundingWan": 159400,
+      "intensity": 50
+     },
+     "youth": {
+      "apply": 18316,
+      "funded": 3073,
+      "fundingWan": 91210,
+      "intensity": null
+     },
+     "regional": {
+      "apply": 5427,
+      "funded": 927,
+      "fundingWan": 29800,
+      "intensity": 32.15
+     }
+    },
+    {
+     "dept": "地球科学部",
+     "general": {
+      "apply": 10085,
+      "funded": 2106,
+      "fundingWan": 105920,
+      "intensity": 50.29
+     },
+     "youth": {
+      "apply": 10280,
+      "funded": 2263,
+      "fundingWan": 67150,
+      "intensity": null
+     },
+     "regional": {
+      "apply": 1562,
+      "funded": 227,
+      "fundingWan": 7400,
+      "intensity": 32.6
+     }
+    },
+    {
+     "dept": "工程与材料科学部",
+     "general": {
+      "apply": 21921,
+      "funded": 3486,
+      "fundingWan": 175337,
+      "intensity": 50.3
+     },
+     "youth": {
+      "apply": 22454,
+      "funded": 3909,
+      "fundingWan": 116200,
+      "intensity": null
+     },
+     "regional": {
+      "apply": 3283,
+      "funded": 437,
+      "fundingWan": 14033,
+      "intensity": 32.11
+     }
+    },
+    {
+     "dept": "信息科学部",
+     "general": {
+      "apply": 12520,
+      "funded": 2183,
+      "fundingWan": 109160,
+      "intensity": 50
+     },
+     "youth": {
+      "apply": 11688,
+      "funded": 2703,
+      "fundingWan": 80170,
+      "intensity": null
+     },
+     "regional": {
+      "apply": 1747,
+      "funded": 267,
+      "fundingWan": 8530,
+      "intensity": 31.95
+     }
+    },
+    {
+     "dept": "管理科学部",
+     "general": {
+      "apply": 4699,
+      "funded": 844,
+      "fundingWan": 34240,
+      "intensity": 40.57
+     },
+     "youth": {
+      "apply": 7376,
+      "funded": 1119,
+      "fundingWan": 33420,
+      "intensity": null
+     },
+     "regional": {
+      "apply": 927,
+      "funded": 145,
+      "fundingWan": 3950,
+      "intensity": 27.24
+     }
+    },
+    {
+     "dept": "医学科学部",
+     "general": {
+      "apply": 35009,
+      "funded": 4627,
+      "fundingWan": 226640,
+      "intensity": 48.98
+     },
+     "youth": {
+      "apply": 44253,
+      "funded": 5440,
+      "fundingWan": 162370,
+      "intensity": null
+     },
+     "regional": {
+      "apply": 8757,
+      "funded": 993,
+      "fundingWan": 31770,
+      "intensity": 31.99
+     }
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "source": "面上分学部直接费用来自基金委《2024 年度部门决算》附件表 1.1：八个学部加总 1,013,711 万元，与全国直接费用一致。青年分学部经费来自同一决算。申请与资助项数来自 2025 年度项目指南。全年 5.49 万项、335.81 亿元来自 2024 年度报告。地区分学部经费仍未公布整数。",
+   "allFunded": null,
+   "allFundedLabel": "5.49 万",
+   "allFundingYi": 335.81,
+   "received": 403900,
+   "accepted": null,
+   "batchReceived": 384564,
+   "batchAccepted": null,
+   "batchFunded": null,
+   "depts": [
+    {
+     "dept": "数学物理科学部",
+     "general": {
+      "apply": 12939,
+      "funded": 1889,
+      "fundingWan": 94480,
+      "intensity": 50.02
+     },
+     "youth": {
+      "apply": 10077,
+      "funded": 2294,
+      "fundingWan": 68820,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 1505,
+      "funded": 243,
+      "fundingWan": null,
+      "intensity": 29.3
+     }
+    },
+    {
+     "dept": "化学科学部",
+     "general": {
+      "apply": 15146,
+      "funded": 2024,
+      "fundingWan": 101162,
+      "intensity": 49.98
+     },
+     "youth": {
+      "apply": 12541,
+      "funded": 2112,
+      "fundingWan": 63360,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 2180,
+      "funded": 299,
+      "fundingWan": null,
+      "intensity": 32
+     }
+    },
+    {
+     "dept": "生命科学部",
+     "general": {
+      "apply": 25839,
+      "funded": 3218,
+      "fundingWan": 160890,
+      "intensity": 50
+     },
+     "youth": {
+      "apply": 20994,
+      "funded": 3094,
+      "fundingWan": 92820,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 6366,
+      "funded": 931,
+      "fundingWan": null,
+      "intensity": 32
+     }
+    },
+    {
+     "dept": "地球科学部",
+     "general": {
+      "apply": 14940,
+      "funded": 2241,
+      "fundingWan": 107568,
+      "intensity": 48
+     },
+     "youth": {
+      "apply": 11292,
+      "funded": 2300,
+      "fundingWan": 69000,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 1834,
+      "funded": 203,
+      "fundingWan": 6090,
+      "intensity": 30
+     }
+    },
+    {
+     "dept": "工程与材料科学部",
+     "general": {
+      "apply": 32414,
+      "funded": 3658,
+      "fundingWan": 175891,
+      "intensity": 48.08
+     },
+     "youth": {
+      "apply": 23950,
+      "funded": 3978,
+      "fundingWan": 119340,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 3618,
+      "funded": 438,
+      "fundingWan": 14005,
+      "intensity": 31.97
+     }
+    },
+    {
+     "dept": "信息科学部",
+     "general": {
+      "apply": 18650,
+      "funded": 2203,
+      "fundingWan": 110150,
+      "intensity": 50
+     },
+     "youth": {
+      "apply": 13482,
+      "funded": 2719,
+      "fundingWan": 81570,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 2031,
+      "funded": 267,
+      "fundingWan": 8530,
+      "intensity": 31.95
+     }
+    },
+    {
+     "dept": "管理科学部",
+     "general": {
+      "apply": 6256,
+      "funded": 841,
+      "fundingWan": 34050,
+      "intensity": 40.49
+     },
+     "youth": {
+      "apply": 8299,
+      "funded": 1113,
+      "fundingWan": 33390,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 1007,
+      "funded": 145,
+      "fundingWan": null,
+      "intensity": 27.24
+     }
+    },
+    {
+     "dept": "医学科学部",
+     "general": {
+      "apply": 51798,
+      "funded": 4684,
+      "fundingWan": 229520,
+      "intensity": 49
+     },
+     "youth": {
+      "apply": 48854,
+      "funded": 5616,
+      "fundingWan": 168480,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 9633,
+      "funded": 993,
+      "fundingWan": null,
+      "intensity": 31.99
+     }
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "source": "2025 年度报告：全年接收 45.57 万项、资助 5.88 万项、经费 370.69 亿元。面上与青 C 分学部经费来自 2025 年决算附件，地区数来自 2026 年度项目指南。",
+   "allFunded": 58777,
+   "allFundingYi": 370.69,
+   "received": 455700,
+   "accepted": null,
+   "batchReceived": null,
+   "batchAccepted": null,
+   "batchFunded": null,
+   "depts": [
+    {
+     "dept": "数学物理科学部",
+     "general": {
+      "apply": 14305,
+      "funded": 2123,
+      "fundingWan": 106170,
+      "intensity": 50.01
+     },
+     "youth": {
+      "apply": 11397,
+      "funded": 2374,
+      "fundingWan": 71220,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 1679,
+      "funded": 243,
+      "fundingWan": null,
+      "intensity": 29.3
+     }
+    },
+    {
+     "dept": "化学科学部",
+     "general": {
+      "apply": 16999,
+      "funded": 2261,
+      "fundingWan": 113050,
+      "intensity": 50
+     },
+     "youth": {
+      "apply": 13900,
+      "funded": 2182,
+      "fundingWan": 65460,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 2506,
+      "funded": 299,
+      "fundingWan": null,
+      "intensity": 32.01
+     }
+    },
+    {
+     "dept": "生命科学部",
+     "general": {
+      "apply": 28886,
+      "funded": 3616,
+      "fundingWan": 180800,
+      "intensity": 50
+     },
+     "youth": {
+      "apply": 23632,
+      "funded": 3302,
+      "fundingWan": 99060,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 7186,
+      "funded": 931,
+      "fundingWan": null,
+      "intensity": 32
+     }
+    },
+    {
+     "dept": "地球科学部",
+     "general": {
+      "apply": 16418,
+      "funded": 2388,
+      "fundingWan": 119410,
+      "intensity": 50
+     },
+     "youth": {
+      "apply": 12406,
+      "funded": 2306,
+      "fundingWan": 69180,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 2090,
+      "funded": 230,
+      "fundingWan": 7120,
+      "intensity": 30.96
+     }
+    },
+    {
+     "dept": "工程与材料科学部",
+     "general": {
+      "apply": 35656,
+      "funded": 3961,
+      "fundingWan": 198050,
+      "intensity": 50
+     },
+     "youth": {
+      "apply": 26047,
+      "funded": 4116,
+      "fundingWan": 123480,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 4211,
+      "funded": 438,
+      "fundingWan": 14016,
+      "intensity": 32
+     }
+    },
+    {
+     "dept": "信息科学部",
+     "general": {
+      "apply": 21284,
+      "funded": 2476,
+      "fundingWan": 123780,
+      "intensity": 49.99
+     },
+     "youth": {
+      "apply": 16043,
+      "funded": 2814,
+      "fundingWan": 84420,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 2373,
+      "funded": 267,
+      "fundingWan": 8530,
+      "intensity": 31.95
+     }
+    },
+    {
+     "dept": "管理科学部",
+     "general": {
+      "apply": 6683,
+      "funded": 946,
+      "fundingWan": 38376,
+      "intensity": 40.57
+     },
+     "youth": {
+      "apply": 8787,
+      "funded": 1146,
+      "fundingWan": 34380,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 1092,
+      "funded": 140,
+      "fundingWan": null,
+      "intensity": 27.24
+     }
+    },
+    {
+     "dept": "医学科学部",
+     "general": {
+      "apply": 58992,
+      "funded": 5263,
+      "fundingWan": 257930,
+      "intensity": 49.01
+     },
+     "youth": {
+      "apply": 55073,
+      "funded": 5811,
+      "fundingWan": 174330,
+      "intensity": 30
+     },
+     "regional": {
+      "apply": 11233,
+      "funded": 993,
+      "fundingWan": null,
+      "intensity": 31.99
+     }
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "source": "基金委 2026 年 8 月 25 日通告（国科金发计〔2026〕72 号）。面上、青年 C 类项数 = 2025 年项数 + 通告写明的增加项数，不是通告直接给出的绝对数。分学部和经费还没公布。",
+   "allFunded": null,
+   "allFundingYi": null,
+   "received": null,
+   "accepted": null,
+   "batchReceived": 470561,
+   "batchAccepted": 469429,
+   "batchFunded": 69563,
+   "depts": []
+  }
+ ],
+ "NATIONAL_HEADLINES": {
+  "2022": {
+   "general": {
+    "apply": 116561,
+    "funded": 20472,
+    "fundingWan": null,
+    "intensity": 53.14,
+    "derived": true
+   },
+   "youth": {
+    "apply": 129194,
+    "funded": 22262,
+    "fundingWan": null,
+    "intensity": null,
+    "derived": true
+   },
+   "regional": {
+    "apply": 24300,
+    "funded": 3521,
+    "fundingWan": null,
+    "intensity": 32.68,
+    "derived": true
+   }
+  },
+  "2023": {
+   "general": {
+    "apply": 119636,
+    "funded": 20321,
+    "fundingWan": 1005057,
+    "intensity": 49.46
+   },
+   "youth": {
+    "apply": 134305,
+    "funded": 22879,
+    "fundingWan": 680030,
+    "intensity": null
+   },
+   "regional": {
+    "apply": 24891,
+    "funded": 3538,
+    "fundingWan": 112171,
+    "intensity": 31.7
+   }
+  },
+  "2024": {
+   "general": {
+    "apply": 177982,
+    "funded": 20758,
+    "fundingWan": 1013711,
+    "intensity": 48.83
+   },
+   "youth": {
+    "apply": 149489,
+    "funded": 23226,
+    "fundingWan": 696780,
+    "intensity": 30
+   },
+   "regional": {
+    "apply": 28174,
+    "funded": 3519,
+    "fundingWan": 110823,
+    "intensity": 31.49
+   }
+  },
+  "2025": {
+   "general": {
+    "apply": 199223,
+    "funded": 23034,
+    "fundingWan": 1137566,
+    "intensity": 49.39
+   },
+   "youth": {
+    "apply": 167285,
+    "funded": 24051,
+    "fundingWan": 721530,
+    "intensity": 30
+   },
+   "regional": {
+    "apply": 32370,
+    "funded": 3541,
+    "fundingWan": 111730,
+    "intensity": 31.55
+   }
+  },
+  "2026": {
+   "general": {
+    "apply": null,
+    "funded": 26434,
+    "fundingWan": null,
+    "intensity": null,
+    "derived": true
+   },
+   "youth": {
+    "apply": null,
+    "funded": 36097,
+    "fundingWan": null,
+    "intensity": null,
+    "derived": true
+   },
+   "regional": {
+    "apply": null,
+    "funded": null,
+    "fundingWan": null,
+    "intensity": null
+   }
+  }
+ },
+ "PROGRAMS": [
+  {
+   "name": "面上项目",
+   "years": {
+    "2022": {
+     "apply": 116561,
+     "funded": 20472,
+     "fundingWan": null,
+     "intensity": 53.14,
+     "derived": true
+    },
+    "2023": {
+     "apply": 119636,
+     "funded": 20321,
+     "fundingWan": 1005057,
+     "intensity": 49.46
+    },
+    "2024": {
+     "apply": 177982,
+     "funded": 20758,
+     "fundingWan": 1013711,
+     "intensity": 48.83
+    },
+    "2025": {
+     "apply": 199223,
+     "funded": 23034,
+     "fundingWan": 1137566,
+     "intensity": 49.39
+    },
+    "2026": {
+     "apply": null,
+     "funded": 26434,
+     "fundingWan": null,
+     "intensity": null,
+     "derived": true
+    }
+   }
+  },
+  {
+   "name": "青年科学基金（C 类）",
+   "note": "2025 年起原青年科学基金改称 C 类。2022 年项数由 2023 年综述里的同比反推。",
+   "years": {
+    "2022": {
+     "apply": 129194,
+     "funded": 22262,
+     "fundingWan": null,
+     "intensity": null,
+     "derived": true
+    },
+    "2023": {
+     "apply": 134305,
+     "funded": 22879,
+     "fundingWan": 680030,
+     "intensity": null
+    },
+    "2024": {
+     "apply": 149489,
+     "funded": 23226,
+     "fundingWan": 696780,
+     "intensity": 30
+    },
+    "2025": {
+     "apply": 167285,
+     "funded": 24051,
+     "fundingWan": 721530,
+     "intensity": 30
+    },
+    "2026": {
+     "apply": null,
+     "funded": 36097,
+     "fundingWan": null,
+     "intensity": null,
+     "derived": true
+    }
+   }
+  },
+  {
+   "name": "地区科学基金",
+   "years": {
+    "2022": {
+     "apply": 24300,
+     "funded": 3521,
+     "fundingWan": null,
+     "intensity": 32.68,
+     "derived": true
+    },
+    "2023": {
+     "apply": 24891,
+     "funded": 3538,
+     "fundingWan": 112171,
+     "intensity": 31.7
+    },
+    "2024": {
+     "apply": 28174,
+     "funded": 3519,
+     "fundingWan": 110823,
+     "intensity": 31.49
+    },
+    "2025": {
+     "apply": 32370,
+     "funded": 3541,
+     "fundingWan": 111730,
+     "intensity": 31.55
+    }
+   }
+  },
+  {
+   "name": "重点项目",
+   "note": "2024、2025 年资助强度来自集中接收评审统计，学部强度按项数加权后与全国强度一致。直接费用不是整数合计，没有回填。",
+   "years": {
+    "2022": {
+     "apply": 4337,
+     "funded": 761,
+     "fundingWan": null,
+     "intensity": 269.75,
+     "derived": true
+    },
+    "2023": {
+     "apply": 4306,
+     "funded": 751,
+     "fundingWan": 168530,
+     "intensity": 224.41
+    },
+    "2024": {
+     "apply": 4514,
+     "funded": 745,
+     "fundingWan": null,
+     "intensity": 225.46
+    },
+    "2025": {
+     "apply": 4491,
+     "funded": 750,
+     "fundingWan": null,
+     "intensity": 224.47
+    }
+   }
+  },
+  {
+   "name": "优青 / 青年 B 类",
+   "note": "2023 年含港澳 25 项、经费 5,000 万；内地 630 项、12.60 亿。2024 年起港澳并入同一类统计。2025 年改称青年 B 类。",
+   "years": {
+    "2023": {
+     "apply": 7726,
+     "funded": 655,
+     "fundingWan": 131000,
+     "intensity": 200
+    },
+    "2024": {
+     "apply": 8394,
+     "funded": 654,
+     "fundingWan": null,
+     "intensity": null
+    },
+    "2025": {
+     "apply": 9495,
+     "funded": 800,
+     "fundingWan": 160000,
+     "intensity": 200
+    }
+   }
+  },
+  {
+   "name": "杰青 / 青年 A 类",
+   "note": "数学、管理科学强度 280 万，其余 400 万。2025 年申请 6,442、资助 450、经费 17.676 亿。",
+   "years": {
+    "2023": {
+     "apply": 5141,
+     "funded": 415,
+     "fundingWan": 162880,
+     "intensity": null
+    },
+    "2024": {
+     "apply": 6117,
+     "funded": 433,
+     "fundingWan": null,
+     "intensity": null
+    },
+    "2025": {
+     "apply": 6442,
+     "funded": 450,
+     "fundingWan": 176760,
+     "intensity": null
+    }
+   }
+  },
+  {
+   "name": "创新研究群体",
+   "note": "2025 年起分 A/B 类：A 类申请 385、资助 34、直接费用 33,400 万；B 类申请 650、资助 31、直接费用 30,800 万。分学部加总与合计一致。",
+   "years": {
+    "2023": {
+     "apply": 376,
+     "funded": 43,
+     "fundingWan": 42400,
+     "intensity": null
+    },
+    "2024": {
+     "apply": 392,
+     "funded": 43,
+     "fundingWan": 42400,
+     "intensity": null
+    },
+    "2025": {
+     "apply": 1035,
+     "funded": 65,
+     "fundingWan": 64200,
+     "intensity": null
+    }
+   }
+  },
+  {
+   "name": "基础科学中心",
+   "note": "2023 年另有 3 项延续资助，见下一行。2024 年新立 18 项不含延续 4 项（A 类 10 项 5.90 亿元、B 类 8 项 4.80 亿元）。2025 年起亦称卓越研究群体，新立 20 项不含延续。经费写到 0.01 亿元，标为约数。",
+   "years": {
+    "2023": {
+     "apply": 71,
+     "funded": 16,
+     "fundingWan": 96000,
+     "intensity": null
+    },
+    "2024": {
+     "apply": 170,
+     "funded": 18,
+     "fundingWan": 107000,
+     "intensity": null,
+     "approx": true
+    },
+    "2025": {
+     "apply": 130,
+     "funded": 20,
+     "fundingWan": 119000,
+     "intensity": null,
+     "approx": true
+    }
+   }
+  },
+  {
+   "name": "基础科学中心延续",
+   "years": {
+    "2023": {
+     "apply": null,
+     "funded": 3,
+     "fundingWan": 17988,
+     "intensity": null
+    },
+    "2024": {
+     "apply": null,
+     "funded": 4,
+     "fundingWan": 23900,
+     "intensity": null,
+     "approx": true
+    },
+    "2025": {
+     "apply": null,
+     "funded": 10,
+     "fundingWan": 46000,
+     "intensity": null,
+     "approx": true
+    }
+   }
+  },
+  {
+   "name": "重大项目",
+   "note": "2024 年直接费用 70,801 万元，分学部加总与 7.08 亿元一致。2025 年分学部加总 71,755.19 万元，与表计合计一致，公开表述四舍五入为 7.18 亿元。",
+   "years": {
+    "2023": {
+     "apply": 143,
+     "funded": 53,
+     "fundingWan": 75366.2,
+     "intensity": null
+    },
+    "2024": {
+     "apply": 109,
+     "funded": 48,
+     "fundingWan": 70801,
+     "intensity": null
+    },
+    "2025": {
+     "apply": 118,
+     "funded": 50,
+     "fundingWan": 71755.19,
+     "intensity": null
+    }
+   }
+  },
+  {
+   "name": "重大研究计划",
+   "years": {
+    "2023": {
+     "apply": 2245,
+     "funded": 340,
+     "fundingWan": 77941.13,
+     "intensity": null
+    },
+    "2024": {
+     "apply": null,
+     "funded": 419,
+     "fundingWan": null,
+     "intensity": null
+    }
+   }
+  },
+  {
+   "name": "联合基金",
+   "note": "2024、2025 年经费是评审统计里的约数，写到 0.01 亿元，不是决算逐项合计。",
+   "years": {
+    "2023": {
+     "apply": 4781,
+     "funded": 1160,
+     "fundingWan": 315783,
+     "intensity": null
+    },
+    "2024": {
+     "apply": 6097,
+     "funded": 1306,
+     "fundingWan": 367300,
+     "intensity": null,
+     "approx": true
+    },
+    "2025": {
+     "apply": 8105,
+     "funded": 1551,
+     "fundingWan": 469700,
+     "intensity": null,
+     "approx": true
+    }
+   }
+  },
+  {
+   "name": "重大科研仪器研制",
+   "note": "本行是自由申请类。部门推荐类另计，2024 年和 2025 年各资助 4 项，未并入。经费只给到约 0.1 亿元，没有回填。",
+   "years": {
+    "2023": {
+     "apply": 649,
+     "funded": 67,
+     "fundingWan": 83215.65,
+     "intensity": null
+    },
+    "2024": {
+     "apply": 709,
+     "funded": 67,
+     "fundingWan": null,
+     "intensity": 775.59
+    },
+    "2025": {
+     "apply": 731,
+     "funded": 70,
+     "fundingWan": null,
+     "intensity": 760.43
+    }
+   }
+  },
+  {
+   "name": "国际（地区）合作研究",
+   "years": {
+    "2023": {
+     "apply": 2769,
+     "funded": 360,
+     "fundingWan": 62932.6,
+     "intensity": null
+    },
+    "2024": {
+     "apply": null,
+     "funded": 350,
+     "fundingWan": null,
+     "intensity": null
+    }
+   }
+  },
+  {
+   "name": "国际（地区）合作交流",
+   "years": {
+    "2023": {
+     "apply": 1240,
+     "funded": 294,
+     "fundingWan": 5614.3,
+     "intensity": null
+    },
+    "2024": {
+     "apply": null,
+     "funded": 443,
+     "fundingWan": null,
+     "intensity": null
+    }
+   }
+  },
+  {
+   "name": "外国学者研究基金",
+   "years": {
+    "2023": {
+     "apply": 2496,
+     "funded": 277,
+     "fundingWan": 24990,
+     "intensity": 90.22
+    },
+    "2024": {
+     "apply": 2898,
+     "funded": 315,
+     "fundingWan": 19900,
+     "intensity": null,
+     "approx": true
+    },
+    "2025": {
+     "apply": 3520,
+     "funded": 340,
+     "fundingWan": 22000,
+     "intensity": null
+    }
+   }
+  },
+  {
+   "name": "专项项目",
+   "note": "2023 年其中原创探索计划 156 项、直接费用 30,212 万。2024 年含青年学生项目：博士 810 项、本科 141 项。2025 年 2,208 项、122,657.32 万元，青年学生、原创探索、理论物理专款等分项已加总核对。",
+   "years": {
+    "2023": {
+     "apply": 5728,
+     "funded": 1227,
+     "fundingWan": 120002.5,
+     "intensity": null
+    },
+    "2024": {
+     "apply": null,
+     "funded": 2237,
+     "fundingWan": null,
+     "intensity": null
+    },
+    "2025": {
+     "apply": null,
+     "funded": 2208,
+     "fundingWan": 122657.32,
+     "intensity": null
+    }
+   }
+  },
+  {
+   "name": "数学天元基金",
+   "years": {
+    "2023": {
+     "apply": 476,
+     "funded": 148,
+     "fundingWan": 6000,
+     "intensity": null
+    },
+    "2024": {
+     "apply": null,
+     "funded": 155,
+     "fundingWan": null,
+     "intensity": null
+    },
+    "2025": {
+     "apply": null,
+     "funded": 226,
+     "fundingWan": 7000,
+     "intensity": null
+    }
+   }
+  },
+  {
+   "name": "面向全球的科学研究基金",
+   "years": {
+    "2024": {
+     "apply": null,
+     "funded": 74,
+     "fundingWan": null,
+     "intensity": null
+    }
+   }
+  }
+ ],
+ "PROGRAM_YEARS": [
+  2022,
+  2023,
+  2024,
+  2025,
+  2026
+ ]
+}

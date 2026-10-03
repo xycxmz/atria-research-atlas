@@ -1,0 +1,3535 @@
+{
+ "dept_year_matrix": {
+  "departments": [
+   "L",
+   "信息科学部",
+   "化学科学部",
+   "医学科学部",
+   "地球科学部",
+   "工程与材料科学部",
+   "数理科学部",
+   "生命科学部",
+   "管理科学部"
+  ],
+  "years": [
+   2004,
+   2005,
+   2006,
+   2007,
+   2008,
+   2009,
+   2010,
+   2011,
+   2012,
+   2013,
+   2014,
+   2015,
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023
+  ],
+  "counts": [
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    1,
+    1,
+    131,
+    222,
+    232,
+    132,
+    1,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    5,
+    38,
+    106,
+    172,
+    2106,
+    4254,
+    4341,
+    2219,
+    67,
+    19,
+    3,
+    1
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    69,
+    1837,
+    3588,
+    3678,
+    3589,
+    1654,
+    56,
+    12,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    1,
+    8,
+    129,
+    4853,
+    9515,
+    9620,
+    4360,
+    98,
+    9,
+    0,
+    1
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    1,
+    4,
+    7,
+    11,
+    24,
+    107,
+    1862,
+    3725,
+    3940,
+    2324,
+    512,
+    38,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    3,
+    2,
+    0,
+    2,
+    19,
+    115,
+    3360,
+    6817,
+    6794,
+    3200,
+    234,
+    126,
+    6,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    3,
+    12,
+    84,
+    1837,
+    3941,
+    4042,
+    4077,
+    2127,
+    183,
+    94,
+    3
+   ],
+   [
+    6,
+    4,
+    3,
+    5,
+    5,
+    8,
+    9,
+    13,
+    19,
+    11,
+    12,
+    112,
+    3429,
+    6082,
+    6307,
+    6253,
+    2533,
+    145,
+    9,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    3,
+    16,
+    44,
+    1655,
+    877,
+    1747,
+    1806,
+    871,
+    190,
+    19,
+    2,
+    1
+   ]
+  ]
+ },
+ "close_award_matrix": {
+  "close_years": [
+   2020,
+   2021,
+   2022,
+   2023
+  ],
+  "award_years": [
+   2014,
+   2015,
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023
+  ],
+  "counts": [
+   [
+    18,
+    650,
+    19582,
+    18074,
+    384,
+    95,
+    14,
+    0,
+    0,
+    0
+   ],
+   [
+    1,
+    17,
+    674,
+    21087,
+    18215,
+    102,
+    173,
+    6,
+    0,
+    0
+   ],
+   [
+    0,
+    1,
+    15,
+    725,
+    21867,
+    18477,
+    303,
+    156,
+    7,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    3,
+    289,
+    8197,
+    6387,
+    166,
+    95,
+    3
+   ]
+  ]
+ },
+ "amount_distribution": {
+  "bins": [
+   "0-20",
+   "20-40",
+   "40-60",
+   "60-80",
+   "80-100",
+   "100-150",
+   "150-200",
+   "200-300",
+   "300-500",
+   "500+"
+  ],
+  "counts": [
+   10649,
+   68475,
+   30496,
+   37947,
+   1018,
+   339,
+   121,
+   2757,
+   1220,
+   75
+  ],
+  "valid_n": 153097,
+  "note": "区间为左闭右开 [下限, 上限)；缺失金额不计入任何区间"
+ },
+ "top_subjects_l2": [
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "自动化",
+   "subject_l2": "控制理论与技术",
+   "count": 780,
+   "amount": 40720.9,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "人工智能",
+   "subject_l2": "机器学习",
+   "count": 444,
+   "amount": 21707.0,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "计算机科学",
+   "subject_l2": "计算机图像视频处理与多媒体技术",
+   "count": 408,
+   "amount": 19943.0,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "电子学与信息系统",
+   "subject_l2": "电磁场与波",
+   "count": 386,
+   "amount": 18004.0,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "计算机科学",
+   "subject_l2": "信息安全",
+   "count": 354,
+   "amount": 16505.0,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "半导体科学与信息器件",
+   "subject_l2": "半导体光电子器件与集成",
+   "count": 310,
+   "amount": 15068.0,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "自动化",
+   "subject_l2": "自动化检测技术与装置",
+   "count": 300,
+   "amount": 21802.0,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "光学和光电子学",
+   "subject_l2": "光子与光电子器件",
+   "count": 294,
+   "amount": 15715.0,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "计算机科学",
+   "subject_l2": "计算机图形学与虚拟现实",
+   "count": 290,
+   "amount": 14883.0,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "计算机科学",
+   "subject_l2": "网络与系统安全",
+   "count": 285,
+   "amount": 16181.3,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "计算机科学",
+   "subject_l2": "系统软件、数据库与工业软件",
+   "count": 266,
+   "amount": 16261.0,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "计算机科学",
+   "subject_l2": "物联网及其他新型网络",
+   "count": 258,
+   "amount": 11928.0,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "自动化",
+   "subject_l2": "控制系统与应用",
+   "count": 254,
+   "amount": 14561.0,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "人工智能",
+   "subject_l2": "机器感知与机器视觉",
+   "count": 246,
+   "amount": 13674.0,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "计算机科学",
+   "subject_l2": "计算机系统结构与硬件技术",
+   "count": 242,
+   "amount": 12725.0,
+   "rank_in_scope": 15
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "催化与表界面化学",
+   "subject_l2": "催化化学",
+   "count": 747,
+   "amount": 37723.7,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "化学测量学",
+   "subject_l2": "化学与生物传感",
+   "count": 521,
+   "amount": 24967.0,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "合成化学",
+   "subject_l2": "配位化学",
+   "count": 482,
+   "amount": 22926.0,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "能源化学",
+   "subject_l2": "电能源化学",
+   "count": 479,
+   "amount": 20416.3,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "化学生物学",
+   "subject_l2": "药物化学生物学",
+   "count": 405,
+   "amount": 20373.2,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "环境化学",
+   "subject_l2": "环境毒理与健康",
+   "count": 401,
+   "amount": 23140.0,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "环境化学",
+   "subject_l2": "水污染与控制化学",
+   "count": 366,
+   "amount": 15839.0,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "材料化学",
+   "subject_l2": "无机功能材料化学",
+   "count": 361,
+   "amount": 15804.7,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "化学工程与工业化学",
+   "subject_l2": "分离工程",
+   "count": 349,
+   "amount": 16425.0,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "化学工程与工业化学",
+   "subject_l2": "反应工程",
+   "count": 337,
+   "amount": 17420.0,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "化学生物学",
+   "subject_l2": "生物分子的化学生物学",
+   "count": 333,
+   "amount": 19065.2,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "环境化学",
+   "subject_l2": "大气污染与控制化学",
+   "count": 323,
+   "amount": 15797.4,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "环境化学",
+   "subject_l2": "环境分析化学",
+   "count": 279,
+   "amount": 13334.5,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "催化与表界面化学",
+   "subject_l2": "胶体与界面化学",
+   "count": 278,
+   "amount": 13162.0,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "催化与表界面化学",
+   "subject_l2": "电化学",
+   "count": 275,
+   "amount": 14078.1,
+   "rank_in_scope": 15
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "肿瘤学",
+   "subject_l2": "肿瘤复发与转移",
+   "count": 805,
+   "amount": 29140.8,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "肿瘤学",
+   "subject_l2": "肿瘤治疗抵抗",
+   "count": 762,
+   "amount": 28120.4,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "中西医结合",
+   "subject_l2": "中西医结合临床基础",
+   "count": 629,
+   "amount": 25129.0,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "中医学",
+   "subject_l2": "中医内科学",
+   "count": 522,
+   "amount": 19657.0,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "肿瘤学",
+   "subject_l2": "肿瘤表观遗传",
+   "count": 499,
+   "amount": 18230.1,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "循环系统",
+   "subject_l2": "心肌损伤、修复、重构和再生",
+   "count": 444,
+   "amount": 19051.5,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "肿瘤学",
+   "subject_l2": "肿瘤细胞命运",
+   "count": 429,
+   "amount": 15749.1,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "肿瘤学",
+   "subject_l2": "肿瘤免疫治疗",
+   "count": 407,
+   "amount": 15089.8,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "神经系统",
+   "subject_l2": "脑血管结构、功能异常及相关疾病",
+   "count": 359,
+   "amount": 14174.5,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "神经系统",
+   "subject_l2": "意识障碍与认知功能障碍",
+   "count": 331,
+   "amount": 13677.0,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "中医学",
+   "subject_l2": "中医针灸学",
+   "count": 304,
+   "amount": 11512.0,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "医学免疫学",
+   "subject_l2": "自身免疫性疾病",
+   "count": 282,
+   "amount": 11174.0,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "影像医学/核医学",
+   "subject_l2": "磁共振成像",
+   "count": 272,
+   "amount": 10771.0,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "肿瘤学",
+   "subject_l2": "肿瘤发生",
+   "count": 269,
+   "amount": 10370.7,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "运动系统",
+   "subject_l2": "骨、关节、软组织退行性病变",
+   "count": 262,
+   "amount": 11052.0,
+   "rank_in_scope": 15
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地理科学",
+   "subject_l2": "遥感科学",
+   "count": 801,
+   "amount": 36527.6,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "环境地球科学",
+   "subject_l2": "工程地质环境与灾害",
+   "count": 434,
+   "amount": 26607.0,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "环境地球科学",
+   "subject_l2": "基础土壤学",
+   "count": 397,
+   "amount": 19964.0,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "环境地球科学",
+   "subject_l2": "环境水科学",
+   "count": 396,
+   "amount": 21475.0,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地理科学",
+   "subject_l2": "景观地理和综合自然地理",
+   "count": 380,
+   "amount": 19095.0,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "环境地球科学",
+   "subject_l2": "环境地球化学",
+   "count": 350,
+   "amount": 17506.0,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地理科学",
+   "subject_l2": "地理信息学",
+   "count": 344,
+   "amount": 16598.5,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "海洋科学",
+   "subject_l2": "生物海洋学与海洋生物资源",
+   "count": 339,
+   "amount": 18390.0,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "大气科学",
+   "subject_l2": "气候与气候系统",
+   "count": 309,
+   "amount": 21643.5,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "环境地球科学",
+   "subject_l2": "土壤侵蚀与土壤肥力",
+   "count": 305,
+   "amount": 14065.0,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地理科学",
+   "subject_l2": "城市地理和乡村地理",
+   "count": 292,
+   "amount": 11797.0,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地质学",
+   "subject_l2": "大地构造学与构造地质学",
+   "count": 264,
+   "amount": 16717.0,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地球物理学和空间物理学",
+   "subject_l2": "矿产地球物理学",
+   "count": 262,
+   "amount": 13632.0,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "环境地球科学",
+   "subject_l2": "污染物环境行为与效应",
+   "count": 252,
+   "amount": 12148.0,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地质学",
+   "subject_l2": "石油天然气地质学",
+   "count": 249,
+   "amount": 13216.0,
+   "rank_in_scope": 15
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "机械设计与制造",
+   "subject_l2": "机械动力学",
+   "count": 563,
+   "amount": 27792.0,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "机械设计与制造",
+   "subject_l2": "成形制造",
+   "count": 546,
+   "amount": 27637.0,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "建筑与土木工程",
+   "subject_l2": "结构工程",
+   "count": 529,
+   "amount": 26147.0,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "无机非金属材料",
+   "subject_l2": "无机非金属能量转换与存储材料",
+   "count": 511,
+   "amount": 22806.0,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "环境工程",
+   "subject_l2": "城市污水处理与资源化",
+   "count": 496,
+   "amount": 20938.0,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "机械设计与制造",
+   "subject_l2": "加工制造",
+   "count": 433,
+   "amount": 22979.0,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "无机非金属材料",
+   "subject_l2": "无机非金属半导体与信息功能材料",
+   "count": 411,
+   "amount": 18059.8,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "工程热物理与能源利用",
+   "subject_l2": "燃烧学",
+   "count": 384,
+   "amount": 20047.0,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "金属材料",
+   "subject_l2": "金属材料使役行为与表面工程",
+   "count": 384,
+   "amount": 17083.0,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "电气科学与工程",
+   "subject_l2": "电力系统与综合能源",
+   "count": 377,
+   "amount": 22547.4,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "机械设计与制造",
+   "subject_l2": "机械摩擦学与表面技术",
+   "count": 375,
+   "amount": 18918.0,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "工程热物理与能源利用",
+   "subject_l2": "传热传质学",
+   "count": 366,
+   "amount": 17660.0,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "建筑与土木工程",
+   "subject_l2": "工程材料",
+   "count": 354,
+   "amount": 16247.0,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "矿业与冶金工程",
+   "subject_l2": "安全科学与工程",
+   "count": 344,
+   "amount": 16894.0,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "机械设计与制造",
+   "subject_l2": "机械设计学",
+   "count": 333,
+   "amount": 14931.0,
+   "rank_in_scope": 15
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "计算数学",
+   "subject_l2": "微分方程数值解",
+   "count": 364,
+   "amount": 13286.3,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "凝聚态物理",
+   "subject_l2": "凝聚态物质电子结构",
+   "count": 360,
+   "amount": 17262.0,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "动力学与控制",
+   "subject_l2": "非线性振动及其控制",
+   "count": 320,
+   "amount": 16610.0,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "统计与运筹",
+   "subject_l2": "连续优化",
+   "count": 253,
+   "amount": 9472.0,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "凝聚态物理",
+   "subject_l2": "凝聚态物质输运性质",
+   "count": 251,
+   "amount": 11383.0,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "微分方程与动力系统",
+   "subject_l2": "混合型、退化型偏微分方程",
+   "count": 246,
+   "amount": 10214.0,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "光学",
+   "subject_l2": "微纳光学与光子学",
+   "count": 238,
+   "amount": 15564.0,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "微分方程与动力系统",
+   "subject_l2": "常微分方程",
+   "count": 226,
+   "amount": 8533.0,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "光学",
+   "subject_l2": "光量子物理和量子光学",
+   "count": 225,
+   "amount": 12546.0,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "爆炸与冲击动力学",
+   "subject_l2": "冲击动力学",
+   "count": 200,
+   "amount": 9578.0,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "分析学",
+   "subject_l2": "非线性泛函分析",
+   "count": 197,
+   "amount": 6552.1,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "加速器、反应堆与探测器",
+   "subject_l2": "粒子探测技术",
+   "count": 196,
+   "amount": 13380.0,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "统计与运筹",
+   "subject_l2": "大数据统计学",
+   "count": 187,
+   "amount": 6486.9,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "凝聚态物理",
+   "subject_l2": "凝聚态物质力热光电性质",
+   "count": 184,
+   "amount": 8120.0,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "统计与运筹",
+   "subject_l2": "图论及其应用",
+   "count": 179,
+   "amount": 6437.0,
+   "rank_in_scope": 15
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "农学基础与作物学",
+   "subject_l2": "作物基因组及遗传学",
+   "count": 1188,
+   "amount": 58892.0,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "遗传学与生物信息学",
+   "subject_l2": "基因表达及非编码序列调控",
+   "count": 481,
+   "amount": 23501.0,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "植物保护学",
+   "subject_l2": "植物病理学",
+   "count": 474,
+   "amount": 21218.0,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "动物学",
+   "subject_l2": "动物系统与分类",
+   "count": 340,
+   "amount": 18644.0,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "生态学",
+   "subject_l2": "生态系统生态学",
+   "count": 312,
+   "amount": 12888.0,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "植物学",
+   "subject_l2": "植物生殖与发育",
+   "count": 311,
+   "amount": 15754.0,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "食品科学",
+   "subject_l2": "食品生物化学",
+   "count": 306,
+   "amount": 13623.0,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "微生物学",
+   "subject_l2": "微生物与环境互作",
+   "count": 304,
+   "amount": 17367.0,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "动物学",
+   "subject_l2": "动物生理与行为",
+   "count": 278,
+   "amount": 14159.0,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "食品科学",
+   "subject_l2": "食品贮藏与保鲜",
+   "count": 274,
+   "amount": 11976.0,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "食品科学",
+   "subject_l2": "食品质量与安全检测",
+   "count": 273,
+   "amount": 11276.0,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "食品科学",
+   "subject_l2": "食品加工与制造",
+   "count": 271,
+   "amount": 12216.0,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "畜牧学",
+   "subject_l2": "动物营养学",
+   "count": 261,
+   "amount": 12196.0,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "兽医学",
+   "subject_l2": "兽医病毒学",
+   "count": 253,
+   "amount": 12062.0,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "微生物学",
+   "subject_l2": "病毒学",
+   "count": 248,
+   "amount": 11186.0,
+   "rank_in_scope": 15
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "经济科学",
+   "subject_l2": "农林经济管理",
+   "count": 377,
+   "amount": 12664.0,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "宏观管理与政策",
+   "subject_l2": "健康管理与政策",
+   "count": 280,
+   "amount": 9362.2,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "管理科学与工程",
+   "subject_l2": "信息系统与管理",
+   "count": 280,
+   "amount": 11510.9,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "宏观管理与政策",
+   "subject_l2": "资源管理与政策",
+   "count": 279,
+   "amount": 10183.5,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "工商管理",
+   "subject_l2": "市场营销",
+   "count": 260,
+   "amount": 9379.2,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "工商管理",
+   "subject_l2": "财务管理",
+   "count": 258,
+   "amount": 8965.8,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "管理科学与工程",
+   "subject_l2": "运筹与管理",
+   "count": 212,
+   "amount": 8330.3,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "工商管理",
+   "subject_l2": "会计与审计",
+   "count": 193,
+   "amount": 6048.9,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "管理科学与工程",
+   "subject_l2": "交通运输管理",
+   "count": 182,
+   "amount": 5913.5,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "经济科学",
+   "subject_l2": "金融经济",
+   "count": 176,
+   "amount": 5807.0,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "管理科学与工程",
+   "subject_l2": "工业工程与质量管理",
+   "count": 166,
+   "amount": 6549.3,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "管理科学与工程",
+   "subject_l2": "金融工程",
+   "count": 165,
+   "amount": 6187.6,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "工商管理",
+   "subject_l2": "企业运营管理",
+   "count": 151,
+   "amount": 5849.7,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "管理科学与工程",
+   "subject_l2": "物流与供应链管理",
+   "count": 142,
+   "amount": 4500.2,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "经济科学",
+   "subject_l2": "国际经济与贸易",
+   "count": 140,
+   "amount": 5241.0,
+   "rank_in_scope": 15
+  }
+ ],
+ "top_subjects_l2_meta": [
+  {
+   "scope": "信息科学部",
+   "candidates": 88,
+   "shown": 15,
+   "shown_count": 5117,
+   "other_count": 7946,
+   "total_count": 13063,
+   "unknown_count": 269
+  },
+  {
+   "scope": "化学科学部",
+   "candidates": 83,
+   "shown": 15,
+   "shown_count": 5936,
+   "other_count": 8372,
+   "total_count": 14308,
+   "unknown_count": 178
+  },
+  {
+   "scope": "医学科学部",
+   "candidates": 364,
+   "shown": 15,
+   "shown_count": 6576,
+   "other_count": 21528,
+   "total_count": 28104,
+   "unknown_count": 492
+  },
+  {
+   "scope": "地球科学部",
+   "candidates": 97,
+   "shown": 15,
+   "shown_count": 5374,
+   "other_count": 7086,
+   "total_count": 12460,
+   "unknown_count": 97
+  },
+  {
+   "scope": "工程与材料科学部",
+   "candidates": 103,
+   "shown": 15,
+   "shown_count": 6406,
+   "other_count": 13791,
+   "total_count": 20197,
+   "unknown_count": 482
+  },
+  {
+   "scope": "数理科学部",
+   "candidates": 211,
+   "shown": 15,
+   "shown_count": 3626,
+   "other_count": 12172,
+   "total_count": 15798,
+   "unknown_count": 607
+  },
+  {
+   "scope": "生命科学部",
+   "candidates": 202,
+   "shown": 15,
+   "shown_count": 5574,
+   "other_count": 19023,
+   "total_count": 24597,
+   "unknown_count": 368
+  },
+  {
+   "scope": "管理科学部",
+   "candidates": 90,
+   "shown": 15,
+   "shown_count": 3261,
+   "other_count": 3762,
+   "total_count": 7023,
+   "unknown_count": 210
+  }
+ ],
+ "top_institution_dept": [
+  {
+   "institution": "上海交通大学",
+   "division_name": "医学科学部",
+   "count": 1646
+  },
+  {
+   "institution": "中山大学",
+   "division_name": "医学科学部",
+   "count": 1214
+  },
+  {
+   "institution": "复旦大学",
+   "division_name": "医学科学部",
+   "count": 1097
+  },
+  {
+   "institution": "华中科技大学",
+   "division_name": "医学科学部",
+   "count": 963
+  },
+  {
+   "institution": "浙江大学",
+   "division_name": "医学科学部",
+   "count": 828
+  },
+  {
+   "institution": "南京医科大学",
+   "division_name": "医学科学部",
+   "count": 770
+  },
+  {
+   "institution": "北京大学",
+   "division_name": "医学科学部",
+   "count": 710
+  },
+  {
+   "institution": "首都医科大学",
+   "division_name": "医学科学部",
+   "count": 689
+  },
+  {
+   "institution": "中南大学",
+   "division_name": "医学科学部",
+   "count": 689
+  },
+  {
+   "institution": "南方医科大学",
+   "division_name": "医学科学部",
+   "count": 678
+  },
+  {
+   "institution": "浙江大学",
+   "division_name": "生命科学部",
+   "count": 598
+  },
+  {
+   "institution": "四川大学",
+   "division_name": "医学科学部",
+   "count": 592
+  },
+  {
+   "institution": "华中农业大学",
+   "division_name": "生命科学部",
+   "count": 553
+  },
+  {
+   "institution": "山东大学",
+   "division_name": "医学科学部",
+   "count": 527
+  },
+  {
+   "institution": "中国农业大学",
+   "division_name": "生命科学部",
+   "count": 524
+  }
+ ],
+ "year_yoy": [
+  {
+   "year": 2004,
+   "count": 6,
+   "yoy": null
+  },
+  {
+   "year": 2005,
+   "count": 4,
+   "yoy": -0.3333
+  },
+  {
+   "year": 2006,
+   "count": 3,
+   "yoy": -0.25
+  },
+  {
+   "year": 2007,
+   "count": 5,
+   "yoy": 0.6667
+  },
+  {
+   "year": 2008,
+   "count": 7,
+   "yoy": 0.4
+  },
+  {
+   "year": 2009,
+   "count": 11,
+   "yoy": 0.5714
+  },
+  {
+   "year": 2010,
+   "count": 15,
+   "yoy": 0.3636
+  },
+  {
+   "year": 2011,
+   "count": 21,
+   "yoy": 0.4
+  },
+  {
+   "year": 2012,
+   "count": 35,
+   "yoy": 0.6667
+  },
+  {
+   "year": 2013,
+   "count": 95,
+   "yoy": 1.7143
+  },
+  {
+   "year": 2014,
+   "count": 858,
+   "yoy": 8.0316
+  },
+  {
+   "year": 2015,
+   "count": 9069,
+   "yoy": 9.5699
+  },
+  {
+   "year": 2016,
+   "count": 25169,
+   "yoy": 1.7753
+  },
+  {
+   "year": 2017,
+   "count": 39951,
+   "yoy": 0.5873
+  },
+  {
+   "year": 2018,
+   "count": 40811,
+   "yoy": 0.0215
+  },
+  {
+   "year": 2019,
+   "count": 27031,
+   "yoy": -0.3377
+  },
+  {
+   "year": 2020,
+   "count": 7434,
+   "yoy": -0.725
+  },
+  {
+   "year": 2021,
+   "count": 629,
+   "yoy": -0.9154
+  },
+  {
+   "year": 2022,
+   "count": 215,
+   "yoy": -0.6582
+  },
+  {
+   "year": 2023,
+   "count": 6,
+   "yoy": -0.9721
+  },
+  {
+   "year": 2024,
+   "count": 197,
+   "yoy": 31.8333
+  }
+ ],
+ "amount_strength": [
+  {
+   "year": 2004,
+   "avg": 17.07,
+   "median": 19.75
+  },
+  {
+   "year": 2005,
+   "avg": 25.5,
+   "median": 25.5
+  },
+  {
+   "year": 2006,
+   "avg": 61.0,
+   "median": 25.0
+  },
+  {
+   "year": 2007,
+   "avg": 23.6,
+   "median": 28.0
+  },
+  {
+   "year": 2008,
+   "avg": 22.57,
+   "median": 20.0
+  },
+  {
+   "year": 2009,
+   "avg": 32.69,
+   "median": 29.0
+  },
+  {
+   "year": 2010,
+   "avg": 28.87,
+   "median": 30.0
+  },
+  {
+   "year": 2011,
+   "avg": 57.43,
+   "median": 46.0
+  },
+  {
+   "year": 2012,
+   "avg": 61.04,
+   "median": 54.5
+  },
+  {
+   "year": 2013,
+   "avg": 57.81,
+   "median": 27.0
+  },
+  {
+   "year": 2014,
+   "avg": 130.58,
+   "median": 78.5
+  },
+  {
+   "year": 2015,
+   "avg": 101.49,
+   "median": 48.0
+  },
+  {
+   "year": 2016,
+   "avg": 67.44,
+   "median": 61.0
+  },
+  {
+   "year": 2017,
+   "avg": 48.62,
+   "median": 39.0
+  },
+  {
+   "year": 2018,
+   "avg": 46.8,
+   "median": 40.0
+  },
+  {
+   "year": 2019,
+   "avg": 37.0,
+   "median": 25.0
+  },
+  {
+   "year": 2020,
+   "avg": 28.03,
+   "median": 24.0
+  },
+  {
+   "year": 2021,
+   "avg": 41.01,
+   "median": 30.0
+  },
+  {
+   "year": 2022,
+   "avg": 27.1,
+   "median": 20.0
+  },
+  {
+   "year": 2023,
+   "avg": 18.33,
+   "median": 20.0
+  },
+  {
+   "year": 2024,
+   "avg": 34.03,
+   "median": 30.0
+  }
+ ],
+ "strength_by_type": [
+  {
+   "grant_type": "面上项目",
+   "count": 61140,
+   "avg": 59.89,
+   "median": 60.0,
+   "total": 3661459.19
+  },
+  {
+   "grant_type": "青年科学基金项目（C类）",
+   "count": 60704,
+   "avg": 23.25,
+   "median": 24.0,
+   "total": 1411489.4
+  },
+  {
+   "grant_type": "地区科学基金项目",
+   "count": 10436,
+   "avg": 37.26,
+   "median": 38.0,
+   "total": 388828.5
+  },
+  {
+   "grant_type": "联合基金项目",
+   "count": 2551,
+   "avg": 144.56,
+   "median": 65.0,
+   "total": 368775.6
+  },
+  {
+   "grant_type": "重点项目",
+   "count": 2233,
+   "avg": 289.65,
+   "median": 290.0,
+   "total": 646798.2
+  },
+  {
+   "grant_type": "重大研究计划",
+   "count": 1747,
+   "avg": 143.41,
+   "median": 80.0,
+   "total": 250532.62
+  },
+  {
+   "grant_type": "数学天元基金项目",
+   "count": 410,
+   "avg": 24.87,
+   "median": 20.0,
+   "total": 10195.0
+  },
+  {
+   "grant_type": "国际（地区）合作与交流项目",
+   "count": 94,
+   "avg": 72.08,
+   "median": 5.0,
+   "total": 6775.9
+  },
+  {
+   "grant_type": "科学部主任基金项目/应急管理项目",
+   "count": 42,
+   "avg": 13.58,
+   "median": 12.55,
+   "total": 570.5
+  },
+  {
+   "grant_type": "专项基金项目",
+   "count": 30,
+   "avg": 183.52,
+   "median": 50.0,
+   "total": 5505.5
+  },
+  {
+   "grant_type": "优秀青年科学基金项目",
+   "count": 19,
+   "avg": 126.32,
+   "median": 130.0,
+   "total": 2400.0
+  },
+  {
+   "grant_type": "地区项目",
+   "count": 15,
+   "avg": 28.07,
+   "median": 27.0,
+   "total": 421.0
+  },
+  {
+   "grant_type": "专项基金",
+   "count": 13,
+   "avg": 16.08,
+   "median": 15.0,
+   "total": 209.0
+  },
+  {
+   "grant_type": "重大项目",
+   "count": 8,
+   "avg": 751.12,
+   "median": 375.5,
+   "total": 6009.0
+  },
+  {
+   "grant_type": "国家杰出青年科学基金项目",
+   "count": 8,
+   "avg": 283.75,
+   "median": 245.0,
+   "total": 2270.0
+  },
+  {
+   "grant_type": "海外及港澳学者合作研究基金",
+   "count": 8,
+   "avg": 18.0,
+   "median": 18.0,
+   "total": 144.0
+  },
+  {
+   "grant_type": "委主任基金项目/应急管理项目",
+   "count": 3,
+   "avg": 17.67,
+   "median": 12.0,
+   "total": 53.0
+  },
+  {
+   "grant_type": "创新研究群体科学基金",
+   "count": 2,
+   "avg": 551.25,
+   "median": 551.25,
+   "total": 1102.5
+  },
+  {
+   "grant_type": "专项项目",
+   "count": 2,
+   "avg": 12.5,
+   "median": 12.5,
+   "total": 25.0
+  },
+  {
+   "grant_type": "应急管理项目",
+   "count": 2,
+   "avg": 16.5,
+   "median": 16.5,
+   "total": 33.0
+  },
+  {
+   "grant_type": "国家重大科研仪器研制项目",
+   "count": 2,
+   "avg": 834.89,
+   "median": 834.89,
+   "total": 1669.78
+  }
+ ],
+ "keyword_freq": {
+  "overall": [
+   {
+    "keyword": "自噬",
+    "count": 1351
+   },
+   {
+    "keyword": "分子机制",
+    "count": 1314
+   },
+   {
+    "keyword": "长链非编码RNA",
+    "count": 1120
+   },
+   {
+    "keyword": "外泌体",
+    "count": 1023
+   },
+   {
+    "keyword": "深度学习",
+    "count": 978
+   },
+   {
+    "keyword": "构效关系",
+    "count": 940
+   },
+   {
+    "keyword": "信号通路",
+    "count": 886
+   },
+   {
+    "keyword": "稳定性",
+    "count": 774
+   },
+   {
+    "keyword": "数值模拟",
+    "count": 760
+   },
+   {
+    "keyword": "巨噬细胞",
+    "count": 736
+   },
+   {
+    "keyword": "作用机制",
+    "count": 681
+   },
+   {
+    "keyword": "转录因子",
+    "count": 663
+   },
+   {
+    "keyword": "信号转导",
+    "count": 609
+   },
+   {
+    "keyword": "微小RNA",
+    "count": 595
+   },
+   {
+    "keyword": "石墨烯",
+    "count": 559
+   },
+   {
+    "keyword": "调控机制",
+    "count": 542
+   },
+   {
+    "keyword": "肠道菌群",
+    "count": 537
+   },
+   {
+    "keyword": "转移",
+    "count": 537
+   },
+   {
+    "keyword": "水稻",
+    "count": 529
+   },
+   {
+    "keyword": "氧化应激",
+    "count": 513
+   },
+   {
+    "keyword": "机器学习",
+    "count": 506
+   },
+   {
+    "keyword": "气候变化",
+    "count": 498
+   },
+   {
+    "keyword": "基因功能",
+    "count": 498
+   },
+   {
+    "keyword": "机制",
+    "count": 484
+   },
+   {
+    "keyword": "线粒体",
+    "count": 483
+   },
+   {
+    "keyword": "炎症",
+    "count": 479
+   },
+   {
+    "keyword": "转录调控",
+    "count": 471
+   },
+   {
+    "keyword": "调控网络",
+    "count": 443
+   },
+   {
+    "keyword": "间充质干细胞",
+    "count": 426
+   },
+   {
+    "keyword": "光催化",
+    "count": 425
+   },
+   {
+    "keyword": "家畜",
+    "count": 419
+   },
+   {
+    "keyword": "动脉粥样硬化",
+    "count": 415
+   },
+   {
+    "keyword": "发病机制",
+    "count": 415
+   },
+   {
+    "keyword": "自组装",
+    "count": 413
+   },
+   {
+    "keyword": "非编码RNA",
+    "count": 401
+   },
+   {
+    "keyword": "环状RNA",
+    "count": 395
+   },
+   {
+    "keyword": "阿尔茨海默病",
+    "count": 389
+   },
+   {
+    "keyword": "细胞凋亡",
+    "count": 387
+   },
+   {
+    "keyword": "肿瘤微环境",
+    "count": 386
+   },
+   {
+    "keyword": "大数据",
+    "count": 378
+   }
+  ],
+  "overall_rows": 148588,
+  "by_division": [
+   {
+    "division_name": "(未分学部)",
+    "top": [
+     {
+      "keyword": "信号通路",
+      "count": 114
+     },
+     {
+      "keyword": "自噬",
+      "count": 107
+     },
+     {
+      "keyword": "分子机制",
+      "count": 103
+     },
+     {
+      "keyword": "微小RNA",
+      "count": 70
+     },
+     {
+      "keyword": "数值模拟",
+      "count": 69
+     },
+     {
+      "keyword": "长链非编码RNA",
+      "count": 67
+     },
+     {
+      "keyword": "氧化应激",
+      "count": 67
+     },
+     {
+      "keyword": "石墨烯",
+      "count": 65
+     },
+     {
+      "keyword": "细胞凋亡",
+      "count": 62
+     },
+     {
+      "keyword": "巨噬细胞",
+      "count": 61
+     },
+     {
+      "keyword": "作用机制",
+      "count": 55
+     },
+     {
+      "keyword": "稳定性",
+      "count": 53
+     },
+     {
+      "keyword": "转录因子",
+      "count": 52
+     },
+     {
+      "keyword": "信号转导",
+      "count": 52
+     },
+     {
+      "keyword": "代谢组学",
+      "count": 52
+     }
+    ],
+    "keyworded_n": 12205
+   },
+   {
+    "division_name": "L",
+    "top": [
+     {
+      "keyword": "分子机制",
+      "count": 22
+     },
+     {
+      "keyword": "作用机制",
+      "count": 15
+     },
+     {
+      "keyword": "玉米",
+      "count": 9
+     },
+     {
+      "keyword": "构效关系",
+      "count": 9
+     },
+     {
+      "keyword": "食管癌",
+      "count": 8
+     },
+     {
+      "keyword": "大数据",
+      "count": 8
+     },
+     {
+      "keyword": "自噬",
+      "count": 8
+     },
+     {
+      "keyword": "深度学习",
+      "count": 7
+     },
+     {
+      "keyword": "棉花",
+      "count": 7
+     },
+     {
+      "keyword": "宫颈癌",
+      "count": 6
+     },
+     {
+      "keyword": "小麦",
+      "count": 6
+     },
+     {
+      "keyword": "长链非编码RNA",
+      "count": 6
+     },
+     {
+      "keyword": "动物模型",
+      "count": 6
+     },
+     {
+      "keyword": "外泌体",
+      "count": 6
+     },
+     {
+      "keyword": "阿尔茨海默病",
+      "count": 6
+     }
+    ],
+    "keyworded_n": 718
+   },
+   {
+    "division_name": "信息科学部",
+    "top": [
+     {
+      "keyword": "深度学习",
+      "count": 591
+     },
+     {
+      "keyword": "机器学习",
+      "count": 190
+     },
+     {
+      "keyword": "特征提取",
+      "count": 144
+     },
+     {
+      "keyword": "隐私保护",
+      "count": 138
+     },
+     {
+      "keyword": "稳定性",
+      "count": 121
+     },
+     {
+      "keyword": "大数据",
+      "count": 105
+     },
+     {
+      "keyword": "迁移学习",
+      "count": 97
+     },
+     {
+      "keyword": "压缩感知",
+      "count": 95
+     },
+     {
+      "keyword": "深度神经网络",
+      "count": 89
+     },
+     {
+      "keyword": "多目标优化",
+      "count": 86
+     },
+     {
+      "keyword": "稀疏表示",
+      "count": 83
+     },
+     {
+      "keyword": "神经网络",
+      "count": 82
+     },
+     {
+      "keyword": "信息融合",
+      "count": 81
+     },
+     {
+      "keyword": "石墨烯",
+      "count": 79
+     },
+     {
+      "keyword": "云计算",
+      "count": 77
+     }
+    ],
+    "keyworded_n": 13060
+   },
+   {
+    "division_name": "化学科学部",
+    "top": [
+     {
+      "keyword": "构效关系",
+      "count": 544
+     },
+     {
+      "keyword": "光催化",
+      "count": 306
+     },
+     {
+      "keyword": "反应机理",
+      "count": 277
+     },
+     {
+      "keyword": "离子液体",
+      "count": 221
+     },
+     {
+      "keyword": "自组装",
+      "count": 212
+     },
+     {
+      "keyword": "不对称催化",
+      "count": 182
+     },
+     {
+      "keyword": "荧光探针",
+      "count": 174
+     },
+     {
+      "keyword": "催化剂设计",
+      "count": 155
+     },
+     {
+      "keyword": "串联反应",
+      "count": 148
+     },
+     {
+      "keyword": "不对称合成",
+      "count": 146
+     },
+     {
+      "keyword": "电催化",
+      "count": 145
+     },
+     {
+      "keyword": "机理研究",
+      "count": 133
+     },
+     {
+      "keyword": "纳米材料",
+      "count": 129
+     },
+     {
+      "keyword": "多孔材料",
+      "count": 116
+     },
+     {
+      "keyword": "吸附",
+      "count": 115
+     }
+    ],
+    "keyworded_n": 14476
+   },
+   {
+    "division_name": "医学科学部",
+    "top": [
+     {
+      "keyword": "自噬",
+      "count": 1089
+     },
+     {
+      "keyword": "长链非编码RNA",
+      "count": 915
+     },
+     {
+      "keyword": "外泌体",
+      "count": 878
+     },
+     {
+      "keyword": "巨噬细胞",
+      "count": 600
+     },
+     {
+      "keyword": "转移",
+      "count": 514
+     },
+     {
+      "keyword": "信号通路",
+      "count": 472
+     },
+     {
+      "keyword": "微小RNA",
+      "count": 464
+     },
+     {
+      "keyword": "分子机制",
+      "count": 431
+     },
+     {
+      "keyword": "炎症",
+      "count": 373
+     },
+     {
+      "keyword": "肠道菌群",
+      "count": 361
+     },
+     {
+      "keyword": "发病机制",
+      "count": 355
+     },
+     {
+      "keyword": "作用机制",
+      "count": 344
+     },
+     {
+      "keyword": "环状RNA",
+      "count": 343
+     },
+     {
+      "keyword": "动脉粥样硬化",
+      "count": 341
+     },
+     {
+      "keyword": "氧化应激",
+      "count": 339
+     }
+    ],
+    "keyworded_n": 28553
+   },
+   {
+    "division_name": "地球科学部",
+    "top": [
+     {
+      "keyword": "气候变化",
+      "count": 316
+     },
+     {
+      "keyword": "模型模拟",
+      "count": 246
+     },
+     {
+      "keyword": "青藏高原",
+      "count": 215
+     },
+     {
+      "keyword": "数值模拟",
+      "count": 209
+     },
+     {
+      "keyword": "深度学习",
+      "count": 93
+     },
+     {
+      "keyword": "遥感监测",
+      "count": 91
+     },
+     {
+      "keyword": "空间分析模型",
+      "count": 89
+     },
+     {
+      "keyword": "高光谱遥感",
+      "count": 89
+     },
+     {
+      "keyword": "重金属",
+      "count": 86
+     },
+     {
+      "keyword": "气溶胶",
+      "count": 82
+     },
+     {
+      "keyword": "古气候",
+      "count": 82
+     },
+     {
+      "keyword": "碳循环",
+      "count": 77
+     },
+     {
+      "keyword": "多光谱遥感",
+      "count": 71
+     },
+     {
+      "keyword": "土壤",
+      "count": 71
+     },
+     {
+      "keyword": "南海",
+      "count": 70
+     }
+    ],
+    "keyworded_n": 12440
+   },
+   {
+    "division_name": "工程与材料科学部",
+    "top": [
+     {
+      "keyword": "数值模拟",
+      "count": 239
+     },
+     {
+      "keyword": "力学性能",
+      "count": 222
+     },
+     {
+      "keyword": "石墨烯",
+      "count": 203
+     },
+     {
+      "keyword": "复合材料",
+      "count": 163
+     },
+     {
+      "keyword": "稳定性",
+      "count": 130
+     },
+     {
+      "keyword": "抗震性能",
+      "count": 128
+     },
+     {
+      "keyword": "微观结构",
+      "count": 124
+     },
+     {
+      "keyword": "锂离子电池",
+      "count": 124
+     },
+     {
+      "keyword": "界面",
+      "count": 118
+     },
+     {
+      "keyword": "动力学",
+      "count": 118
+     },
+     {
+      "keyword": "多场耦合",
+      "count": 104
+     },
+     {
+      "keyword": "纳米复合材料",
+      "count": 103
+     },
+     {
+      "keyword": "流固耦合",
+      "count": 99
+     },
+     {
+      "keyword": "多尺度",
+      "count": 96
+     },
+     {
+      "keyword": "设计方法",
+      "count": 96
+     }
+    ],
+    "keyworded_n": 20423
+   },
+   {
+    "division_name": "数理科学部",
+    "top": [
+     {
+      "keyword": "稳定性",
+      "count": 267
+     },
+     {
+      "keyword": "数值模拟",
+      "count": 185
+     },
+     {
+      "keyword": "第一性原理计算",
+      "count": 185
+     },
+     {
+      "keyword": "能带结构",
+      "count": 152
+     },
+     {
+      "keyword": "适定性",
+      "count": 132
+     },
+     {
+      "keyword": "表面等离激元",
+      "count": 129
+     },
+     {
+      "keyword": "二维材料",
+      "count": 125
+     },
+     {
+      "keyword": "同步辐射",
+      "count": 102
+     },
+     {
+      "keyword": "电子结构",
+      "count": 90
+     },
+     {
+      "keyword": "深度学习",
+      "count": 84
+     },
+     {
+      "keyword": "有限元方法",
+      "count": 83
+     },
+     {
+      "keyword": "输运性质",
+      "count": 83
+     },
+     {
+      "keyword": "石墨烯",
+      "count": 81
+     },
+     {
+      "keyword": "自旋轨道耦合",
+      "count": 78
+     },
+     {
+      "keyword": "机器学习",
+      "count": 76
+     }
+    ],
+    "keyworded_n": 16325
+   },
+   {
+    "division_name": "生命科学部",
+    "top": [
+     {
+      "keyword": "分子机制",
+      "count": 669
+     },
+     {
+      "keyword": "转录因子",
+      "count": 487
+     },
+     {
+      "keyword": "信号转导",
+      "count": 447
+     },
+     {
+      "keyword": "水稻",
+      "count": 444
+     },
+     {
+      "keyword": "基因功能",
+      "count": 438
+     },
+     {
+      "keyword": "家畜",
+      "count": 409
+     },
+     {
+      "keyword": "调控网络",
+      "count": 387
+     },
+     {
+      "keyword": "调控机制",
+      "count": 339
+     },
+     {
+      "keyword": "转录调控",
+      "count": 336
+     },
+     {
+      "keyword": "基因克隆",
+      "count": 311
+     },
+     {
+      "keyword": "致病机理",
+      "count": 282
+     },
+     {
+      "keyword": "小鼠",
+      "count": 279
+     },
+     {
+      "keyword": "信号通路",
+      "count": 261
+     },
+     {
+      "keyword": "小麦",
+      "count": 247
+     },
+     {
+      "keyword": "蛋白质",
+      "count": 242
+     }
+    ],
+    "keyworded_n": 24675
+   },
+   {
+    "division_name": "管理科学部",
+    "top": [
+     {
+      "keyword": "大数据",
+      "count": 97
+     },
+     {
+      "keyword": "社会网络",
+      "count": 61
+     },
+     {
+      "keyword": "公司治理",
+      "count": 45
+     },
+     {
+      "keyword": "创新绩效",
+      "count": 45
+     },
+     {
+      "keyword": "数据挖掘",
+      "count": 44
+     },
+     {
+      "keyword": "博弈论",
+      "count": 44
+     },
+     {
+      "keyword": "机制设计",
+      "count": 43
+     },
+     {
+      "keyword": "不确定性",
+      "count": 43
+     },
+     {
+      "keyword": "全球价值链",
+      "count": 41
+     },
+     {
+      "keyword": "数据包络分析",
+      "count": 39
+     },
+     {
+      "keyword": "数据驱动",
+      "count": 38
+     },
+     {
+      "keyword": "企业创新",
+      "count": 36
+     },
+     {
+      "keyword": "系统性风险",
+      "count": 34
+     },
+     {
+      "keyword": "信息不对称",
+      "count": 34
+     },
+     {
+      "keyword": "供应链管理",
+      "count": 33
+     }
+    ],
+    "keyworded_n": 5711
+   }
+  ],
+  "by_year": [
+   {
+    "year": 2015,
+    "keyworded_n": 7558,
+    "top": [
+     {
+      "keyword": "信号通路",
+      "count": 81
+     },
+     {
+      "keyword": "分子机制",
+      "count": 74
+     },
+     {
+      "keyword": "自噬",
+      "count": 55
+     },
+     {
+      "keyword": "数值模拟",
+      "count": 49
+     },
+     {
+      "keyword": "作用机制",
+      "count": 41
+     },
+     {
+      "keyword": "巨噬细胞",
+      "count": 40
+     },
+     {
+      "keyword": "细胞凋亡",
+      "count": 40
+     },
+     {
+      "keyword": "调控",
+      "count": 36
+     },
+     {
+      "keyword": "石墨烯",
+      "count": 36
+     },
+     {
+      "keyword": "长链非编码RNA",
+      "count": 35
+     },
+     {
+      "keyword": "微小RNA",
+      "count": 35
+     },
+     {
+      "keyword": "氧化应激",
+      "count": 35
+     },
+     {
+      "keyword": "机制",
+      "count": 34
+     },
+     {
+      "keyword": "信号转导",
+      "count": 34
+     },
+     {
+      "keyword": "转录因子",
+      "count": 34
+     }
+    ],
+    "sufficient": true
+   },
+   {
+    "year": 2016,
+    "keyworded_n": 25161,
+    "top": [
+     {
+      "keyword": "自噬",
+      "count": 244
+     },
+     {
+      "keyword": "分子机制",
+      "count": 218
+     },
+     {
+      "keyword": "长链非编码RNA",
+      "count": 206
+     },
+     {
+      "keyword": "信号通路",
+      "count": 172
+     },
+     {
+      "keyword": "微小RNA",
+      "count": 143
+     },
+     {
+      "keyword": "构效关系",
+      "count": 122
+     },
+     {
+      "keyword": "数值模拟",
+      "count": 120
+     },
+     {
+      "keyword": "信号转导",
+      "count": 119
+     },
+     {
+      "keyword": "作用机制",
+      "count": 119
+     },
+     {
+      "keyword": "巨噬细胞",
+      "count": 119
+     },
+     {
+      "keyword": "稳定性",
+      "count": 109
+     },
+     {
+      "keyword": "氧化应激",
+      "count": 107
+     },
+     {
+      "keyword": "石墨烯",
+      "count": 106
+     },
+     {
+      "keyword": "调控机制",
+      "count": 102
+     },
+     {
+      "keyword": "外泌体",
+      "count": 100
+     }
+    ],
+    "sufficient": true
+   },
+   {
+    "year": 2017,
+    "keyworded_n": 39949,
+    "top": [
+     {
+      "keyword": "自噬",
+      "count": 428
+     },
+     {
+      "keyword": "长链非编码RNA",
+      "count": 330
+     },
+     {
+      "keyword": "分子机制",
+      "count": 325
+     },
+     {
+      "keyword": "外泌体",
+      "count": 293
+     },
+     {
+      "keyword": "信号通路",
+      "count": 255
+     },
+     {
+      "keyword": "深度学习",
+      "count": 248
+     },
+     {
+      "keyword": "构效关系",
+      "count": 234
+     },
+     {
+      "keyword": "巨噬细胞",
+      "count": 220
+     },
+     {
+      "keyword": "数值模拟",
+      "count": 198
+     },
+     {
+      "keyword": "微小RNA",
+      "count": 193
+     },
+     {
+      "keyword": "转移",
+      "count": 193
+     },
+     {
+      "keyword": "石墨烯",
+      "count": 189
+     },
+     {
+      "keyword": "稳定性",
+      "count": 188
+     },
+     {
+      "keyword": "作用机制",
+      "count": 188
+     },
+     {
+      "keyword": "转录因子",
+      "count": 161
+     }
+    ],
+    "sufficient": true
+   },
+   {
+    "year": 2018,
+    "keyworded_n": 40808,
+    "top": [
+     {
+      "keyword": "自噬",
+      "count": 412
+     },
+     {
+      "keyword": "外泌体",
+      "count": 392
+     },
+     {
+      "keyword": "长链非编码RNA",
+      "count": 391
+     },
+     {
+      "keyword": "深度学习",
+      "count": 366
+     },
+     {
+      "keyword": "分子机制",
+      "count": 319
+     },
+     {
+      "keyword": "信号通路",
+      "count": 240
+     },
+     {
+      "keyword": "巨噬细胞",
+      "count": 228
+     },
+     {
+      "keyword": "数值模拟",
+      "count": 221
+     },
+     {
+      "keyword": "构效关系",
+      "count": 220
+     },
+     {
+      "keyword": "稳定性",
+      "count": 203
+     },
+     {
+      "keyword": "作用机制",
+      "count": 199
+     },
+     {
+      "keyword": "转录因子",
+      "count": 185
+     },
+     {
+      "keyword": "肠道菌群",
+      "count": 181
+     },
+     {
+      "keyword": "信号转导",
+      "count": 174
+     },
+     {
+      "keyword": "转移",
+      "count": 174
+     }
+    ],
+    "sufficient": true
+   },
+   {
+    "year": 2019,
+    "keyworded_n": 26938,
+    "top": [
+     {
+      "keyword": "分子机制",
+      "count": 271
+     },
+     {
+      "keyword": "构效关系",
+      "count": 230
+     },
+     {
+      "keyword": "外泌体",
+      "count": 207
+     },
+     {
+      "keyword": "深度学习",
+      "count": 202
+     },
+     {
+      "keyword": "自噬",
+      "count": 194
+     },
+     {
+      "keyword": "稳定性",
+      "count": 166
+     },
+     {
+      "keyword": "数值模拟",
+      "count": 142
+     },
+     {
+      "keyword": "转录因子",
+      "count": 142
+     },
+     {
+      "keyword": "长链非编码RNA",
+      "count": 137
+     },
+     {
+      "keyword": "基因功能",
+      "count": 133
+     },
+     {
+      "keyword": "机器学习",
+      "count": 125
+     },
+     {
+      "keyword": "巨噬细胞",
+      "count": 120
+     },
+     {
+      "keyword": "作用机制",
+      "count": 115
+     },
+     {
+      "keyword": "信号通路",
+      "count": 114
+     },
+     {
+      "keyword": "肠道菌群",
+      "count": 112
+     }
+    ],
+    "sufficient": true
+   },
+   {
+    "year": 2020,
+    "keyworded_n": 7004,
+    "top": [
+     {
+      "keyword": "分子机制",
+      "count": 104
+     },
+     {
+      "keyword": "构效关系",
+      "count": 100
+     },
+     {
+      "keyword": "稳定性",
+      "count": 59
+     },
+     {
+      "keyword": "转录因子",
+      "count": 50
+     },
+     {
+      "keyword": "光催化",
+      "count": 49
+     },
+     {
+      "keyword": "基因功能",
+      "count": 44
+     },
+     {
+      "keyword": "机器学习",
+      "count": 41
+     },
+     {
+      "keyword": "调控机制",
+      "count": 40
+     },
+     {
+      "keyword": "反应机理",
+      "count": 39
+     },
+     {
+      "keyword": "深度学习",
+      "count": 39
+     },
+     {
+      "keyword": "致病机理",
+      "count": 39
+     },
+     {
+      "keyword": "气候变化",
+      "count": 37
+     },
+     {
+      "keyword": "转录调控",
+      "count": 37
+     },
+     {
+      "keyword": "调控网络",
+      "count": 35
+     },
+     {
+      "keyword": "蛋白质",
+      "count": 34
+     }
+    ],
+    "sufficient": true
+   },
+   {
+    "year": 2021,
+    "keyworded_n": 395,
+    "top": [
+     {
+      "keyword": "深度学习",
+      "count": 14
+     },
+     {
+      "keyword": "稳定性",
+      "count": 11
+     },
+     {
+      "keyword": "临界点理论",
+      "count": 7
+     },
+     {
+      "keyword": "韧性",
+      "count": 7
+     },
+     {
+      "keyword": "有限元方法",
+      "count": 6
+     },
+     {
+      "keyword": "人工智能",
+      "count": 5
+     },
+     {
+      "keyword": "分数阶方程",
+      "count": 5
+     },
+     {
+      "keyword": "误差估计",
+      "count": 4
+     },
+     {
+      "keyword": "数学建模",
+      "count": 4
+     },
+     {
+      "keyword": "当代数学发展",
+      "count": 3
+     },
+     {
+      "keyword": "数学的未来展望",
+      "count": 3
+     },
+     {
+      "keyword": "加法数论",
+      "count": 3
+     },
+     {
+      "keyword": "文献研究",
+      "count": 3
+     },
+     {
+      "keyword": "数学文化",
+      "count": 3
+     },
+     {
+      "keyword": "Hardy空间",
+      "count": 3
+     }
+    ],
+    "sufficient": true
+   },
+   {
+    "year": 2022,
+    "keyworded_n": 104,
+    "top": [
+     {
+      "keyword": "稳定性",
+      "count": 6
+     },
+     {
+      "keyword": "变分法",
+      "count": 5
+     },
+     {
+      "keyword": "存在性",
+      "count": 4
+     },
+     {
+      "keyword": "误差估计",
+      "count": 4
+     },
+     {
+      "keyword": "初边值问题",
+      "count": 3
+     },
+     {
+      "keyword": "周期解",
+      "count": 3
+     },
+     {
+      "keyword": "压缩感知",
+      "count": 3
+     },
+     {
+      "keyword": "数学文化",
+      "count": 3
+     },
+     {
+      "keyword": "分叉",
+      "count": 3
+     },
+     {
+      "keyword": "有限域",
+      "count": 3
+     },
+     {
+      "keyword": "线性码",
+      "count": 3
+     },
+     {
+      "keyword": "能源",
+      "count": 3
+     },
+     {
+      "keyword": "仿射胞腔代数",
+      "count": 2
+     },
+     {
+      "keyword": "有限维数",
+      "count": 2
+     },
+     {
+      "keyword": "广义矩阵代数",
+      "count": 2
+     }
+    ],
+    "sufficient": true
+   },
+   {
+    "year": 2023,
+    "keyworded_n": 5,
+    "top": [],
+    "sufficient": false
+   },
+   {
+    "year": 2024,
+    "keyworded_n": 0,
+    "top": [],
+    "sufficient": false
+   }
+  ]
+ },
+ "dept_type_matrix": {
+  "departments": [
+   "信息科学部",
+   "化学科学部",
+   "医学科学部",
+   "地球科学部",
+   "工程与材料科学部",
+   "数理科学部",
+   "生命科学部",
+   "管理科学部"
+  ],
+  "types": [
+   "面上项目",
+   "青年科学基金项目（C类）",
+   "地区科学基金项目",
+   "重点项目"
+  ],
+  "counts": [
+   [
+    5544,
+    6361,
+    672,
+    265
+   ],
+   [
+    6589,
+    6260,
+    948,
+    246
+   ],
+   [
+    12615,
+    12737,
+    2634,
+    319
+   ],
+   [
+    5673,
+    5704,
+    636,
+    285
+   ],
+   [
+    9409,
+    9345,
+    1065,
+    287
+   ],
+   [
+    6709,
+    7134,
+    736,
+    304
+   ],
+   [
+    11571,
+    9626,
+    2961,
+    416
+   ],
+   [
+    3008,
+    3231,
+    685,
+    89
+   ]
+  ],
+  "youth_ratio": [
+   1.147,
+   0.95,
+   1.01,
+   1.005,
+   0.993,
+   1.063,
+   0.832,
+   1.074
+  ]
+ },
+ "top_institution_years": {
+  "institutions": [
+   "上海交通大学",
+   "中山大学",
+   "浙江大学",
+   "华中科技大学",
+   "复旦大学",
+   "北京大学",
+   "清华大学",
+   "同济大学",
+   "四川大学",
+   "山东大学"
+  ],
+  "years": [
+   2004,
+   2005,
+   2006,
+   2007,
+   2008,
+   2009,
+   2010,
+   2011,
+   2012,
+   2013,
+   2014,
+   2015,
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "counts": [
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    27,
+    265,
+    704,
+    975,
+    950,
+    636,
+    112,
+    8,
+    1,
+    1,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    12,
+    126,
+    421,
+    777,
+    816,
+    557,
+    139,
+    8,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    24,
+    164,
+    533,
+    723,
+    829,
+    447,
+    114,
+    9,
+    1,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    15,
+    97,
+    403,
+    688,
+    697,
+    391,
+    65,
+    2,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    12,
+    193,
+    427,
+    612,
+    626,
+    397,
+    62,
+    9,
+    2,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    24,
+    255,
+    451,
+    484,
+    552,
+    309,
+    66,
+    23,
+    5,
+    1,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    34,
+    108,
+    358,
+    423,
+    406,
+    247,
+    87,
+    28,
+    6,
+    1,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    9,
+    77,
+    291,
+    491,
+    456,
+    211,
+    37,
+    2,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    9,
+    51,
+    232,
+    424,
+    474,
+    326,
+    49,
+    1,
+    2,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    8,
+    55,
+    244,
+    441,
+    407,
+    325,
+    78,
+    2,
+    1,
+    0,
+    0
+   ]
+  ]
+ }
+}

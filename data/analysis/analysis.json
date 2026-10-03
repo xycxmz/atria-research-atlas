@@ -1,0 +1,1344 @@
+{
+ "meta": {
+  "total_projects": 165200,
+  "year_min": 2004,
+  "year_max": 2024,
+  "close_year_max": 2023,
+  "total_amount_wan": 7189844.6,
+  "distinct_institutions": 2363,
+  "distinct_pis": 113281
+ },
+ "by_year": [
+  {
+   "year": 2004,
+   "count": 6,
+   "amount": 102.4
+  },
+  {
+   "year": 2005,
+   "count": 4,
+   "amount": 102.0
+  },
+  {
+   "year": 2006,
+   "count": 3,
+   "amount": 183.0
+  },
+  {
+   "year": 2007,
+   "count": 5,
+   "amount": 118.0
+  },
+  {
+   "year": 2008,
+   "count": 7,
+   "amount": 158.0
+  },
+  {
+   "year": 2009,
+   "count": 11,
+   "amount": 359.6
+  },
+  {
+   "year": 2010,
+   "count": 15,
+   "amount": 433.0
+  },
+  {
+   "year": 2011,
+   "count": 21,
+   "amount": 1206.0
+  },
+  {
+   "year": 2012,
+   "count": 35,
+   "amount": 2136.5
+  },
+  {
+   "year": 2013,
+   "count": 95,
+   "amount": 4913.9
+  },
+  {
+   "year": 2014,
+   "count": 858,
+   "amount": 32906.0
+  },
+  {
+   "year": 2015,
+   "count": 9069,
+   "amount": 248253.6
+  },
+  {
+   "year": 2016,
+   "count": 25169,
+   "amount": 1383961.5
+  },
+  {
+   "year": 2017,
+   "count": 39951,
+   "amount": 1939401.1
+  },
+  {
+   "year": 2018,
+   "count": 40811,
+   "amount": 1907379.7
+  },
+  {
+   "year": 2019,
+   "count": 27031,
+   "amount": 999947.1
+  },
+  {
+   "year": 2020,
+   "count": 7434,
+   "amount": 207884.0
+  },
+  {
+   "year": 2021,
+   "count": 629,
+   "amount": 24401.4
+  },
+  {
+   "year": 2022,
+   "count": 215,
+   "amount": 4606.8
+  },
+  {
+   "year": 2023,
+   "count": 6,
+   "amount": 110.0
+  },
+  {
+   "year": 2024,
+   "count": 197,
+   "amount": 6703.2
+  }
+ ],
+ "by_close_year": [
+  {
+   "year": 2020,
+   "count": 38817
+  },
+  {
+   "year": 2021,
+   "count": 40275
+  },
+  {
+   "year": 2022,
+   "count": 41551
+  },
+  {
+   "year": 2023,
+   "count": 15140
+  }
+ ],
+ "by_department": [
+  {
+   "division_name": "医学科学部",
+   "count": 28596,
+   "amount": 1186446.5,
+   "valid_n": 28596
+  },
+  {
+   "division_name": "生命科学部",
+   "count": 24976,
+   "amount": 1215313.8,
+   "valid_n": 24975
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "count": 20800,
+   "amount": 1034772.3,
+   "valid_n": 20800
+  },
+  {
+   "division_name": "数理科学部",
+   "count": 16405,
+   "amount": 838466.2,
+   "valid_n": 16405
+  },
+  {
+   "division_name": "化学科学部",
+   "count": 14486,
+   "amount": 754632.4,
+   "valid_n": 14486
+  },
+  {
+   "division_name": "信息科学部",
+   "count": 13337,
+   "amount": 683374.8,
+   "valid_n": 13337
+  },
+  {
+   "division_name": "地球科学部",
+   "count": 12599,
+   "amount": 677823.3,
+   "valid_n": 12599
+  },
+  {
+   "division_name": "管理科学部",
+   "count": 7233,
+   "amount": 267999.5,
+   "valid_n": 7233
+  },
+  {
+   "division_name": "L",
+   "count": 722,
+   "amount": 96228.0,
+   "valid_n": 722
+  }
+ ],
+ "top_institutions": [
+  {
+   "institution": "上海交通大学",
+   "count": 4028,
+   "amount": 184990.9
+  },
+  {
+   "institution": "浙江大学",
+   "count": 3182,
+   "amount": 156347.6
+  },
+  {
+   "institution": "中山大学",
+   "count": 3096,
+   "amount": 140909.9
+  },
+  {
+   "institution": "复旦大学",
+   "count": 2694,
+   "amount": 123505.8
+  },
+  {
+   "institution": "华中科技大学",
+   "count": 2651,
+   "amount": 115562.1
+  },
+  {
+   "institution": "北京大学",
+   "count": 2491,
+   "amount": 145299.4
+  },
+  {
+   "institution": "清华大学",
+   "count": 2280,
+   "amount": 150570.0
+  },
+  {
+   "institution": "西安交通大学",
+   "count": 1807,
+   "amount": 80926.8
+  },
+  {
+   "institution": "武汉大学",
+   "count": 1773,
+   "amount": 84563.2
+  },
+  {
+   "institution": "同济大学",
+   "count": 1766,
+   "amount": 86969.0
+  },
+  {
+   "institution": "南京大学",
+   "count": 1705,
+   "amount": 94274.0
+  },
+  {
+   "institution": "四川大学",
+   "count": 1673,
+   "amount": 75109.1
+  },
+  {
+   "institution": "山东大学",
+   "count": 1623,
+   "amount": 76943.8
+  },
+  {
+   "institution": "中南大学",
+   "count": 1602,
+   "amount": 73785.1
+  },
+  {
+   "institution": "中国科学技术大学",
+   "count": 1399,
+   "amount": 84534.6
+  },
+  {
+   "institution": "哈尔滨工业大学",
+   "count": 1340,
+   "amount": 69237.4
+  },
+  {
+   "institution": "天津大学",
+   "count": 1297,
+   "amount": 68115.4
+  },
+  {
+   "institution": "北京航空航天大学",
+   "count": 1269,
+   "amount": 60697.5
+  },
+  {
+   "institution": "厦门大学",
+   "count": 1256,
+   "amount": 65262.2
+  },
+  {
+   "institution": "大连理工大学",
+   "count": 1239,
+   "amount": 59913.2
+  },
+  {
+   "institution": "吉林大学",
+   "count": 1200,
+   "amount": 56808.0
+  },
+  {
+   "institution": "苏州大学",
+   "count": 1104,
+   "amount": 49298.9
+  },
+  {
+   "institution": "东南大学",
+   "count": 1080,
+   "amount": 48788.6
+  },
+  {
+   "institution": "南昌大学",
+   "count": 1040,
+   "amount": 35015.2
+  },
+  {
+   "institution": "华南理工大学",
+   "count": 987,
+   "amount": 50800.4
+  },
+  {
+   "institution": "北京理工大学",
+   "count": 971,
+   "amount": 48154.7
+  },
+  {
+   "institution": "重庆大学",
+   "count": 969,
+   "amount": 40761.3
+  },
+  {
+   "institution": "南开大学",
+   "count": 966,
+   "amount": 47290.9
+  },
+  {
+   "institution": "深圳大学",
+   "count": 961,
+   "amount": 36491.8
+  },
+  {
+   "institution": "郑州大学",
+   "count": 946,
+   "amount": 37900.7
+  }
+ ],
+ "by_grant_type": [
+  {
+   "grant_type": "面上项目",
+   "count": 72876,
+   "amount": 3885292.3
+  },
+  {
+   "grant_type": "青年科学基金项目（C类）",
+   "count": 69672,
+   "amount": 1494594.3
+  },
+  {
+   "grant_type": "地区科学基金项目",
+   "count": 13139,
+   "amount": 409126.3
+  },
+  {
+   "grant_type": "重点项目",
+   "count": 3007,
+   "amount": 682079.0
+  },
+  {
+   "grant_type": "联合基金项目",
+   "count": 2738,
+   "amount": 368775.6
+  },
+  {
+   "grant_type": "重大研究计划",
+   "count": 2201,
+   "amount": 261369.6
+  },
+  {
+   "grant_type": "应急项目",
+   "count": 495,
+   "amount": 4617.5
+  },
+  {
+   "grant_type": "数学天元基金项目",
+   "count": 410,
+   "amount": 10195.0
+  },
+  {
+   "grant_type": "国家杰出青年科学基金项目",
+   "count": 106,
+   "amount": 13790.0
+  },
+  {
+   "grant_type": "优秀青年科学基金项目",
+   "count": 95,
+   "amount": 10860.0
+  },
+  {
+   "grant_type": "国际（地区）合作与交流项目",
+   "count": 95,
+   "amount": 6775.9
+  },
+  {
+   "grant_type": "海外及港澳学者合作研究基金",
+   "count": 80,
+   "amount": 2690.0
+  },
+  {
+   "grant_type": "专项基金项目",
+   "count": 69,
+   "amount": 5505.5
+  },
+  {
+   "grant_type": "科学部主任基金项目/应急管理项目",
+   "count": 42,
+   "amount": 570.5
+  },
+  {
+   "grant_type": "重点国际（地区）合作研究项目",
+   "count": 41,
+   "amount": 7729.0
+  },
+  {
+   "grant_type": "联合基金-河南联合",
+   "count": 32,
+   "amount": 801.7
+  },
+  {
+   "grant_type": "创新研究群体科学基金",
+   "count": 29,
+   "amount": 14417.5
+  },
+  {
+   "grant_type": "青年-面上连续资助项目",
+   "count": 24,
+   "amount": 1355.1
+  },
+  {
+   "grant_type": "地区项目",
+   "count": 15,
+   "amount": 421.0
+  },
+  {
+   "grant_type": "专项基金",
+   "count": 13,
+   "amount": 209.0
+  },
+  {
+   "grant_type": "重大项目",
+   "count": 8,
+   "amount": 6009.0
+  },
+  {
+   "grant_type": "委主任基金项目/应急管理项目",
+   "count": 3,
+   "amount": 53.0
+  },
+  {
+   "grant_type": "专项项目",
+   "count": 2,
+   "amount": 25.0
+  },
+  {
+   "grant_type": "国家重大科研仪器研制项目",
+   "count": 2,
+   "amount": 1669.8
+  },
+  {
+   "grant_type": "联合基金-浙江联合",
+   "count": 2,
+   "amount": 400.0
+  },
+  {
+   "grant_type": "应急管理项目",
+   "count": 2,
+   "amount": 33.0
+  },
+  {
+   "grant_type": "联合基金-广东联合",
+   "count": 2,
+   "amount": 480.0
+  }
+ ],
+ "top_subjects_l1": [
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "电子学与信息系统",
+   "count": 3398,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "计算机科学",
+   "count": 3278,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "自动化",
+   "count": 2483,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "光学和光电子学",
+   "count": 1644,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "人工智能",
+   "count": 1281,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "半导体科学与信息器件",
+   "count": 1152,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "信息科学部",
+   "subject_l1": "交叉学科中的信息科学",
+   "count": 91,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "合成化学",
+   "count": 2665,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "化学工程与工业化学",
+   "count": 2639,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "环境化学",
+   "count": 1738,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "催化与表界面化学",
+   "count": 1490,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "化学测量学",
+   "count": 1426,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "材料化学",
+   "count": 1368,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "化学生物学",
+   "count": 1216,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "化学理论与机制",
+   "count": 1099,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "化学科学部",
+   "subject_l1": "能源化学",
+   "count": 845,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "肿瘤学",
+   "count": 5430,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "中医学",
+   "count": 1860,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "神经系统",
+   "count": 1856,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "循环系统",
+   "count": 1774,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "中药学",
+   "count": 1438,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "预防医学",
+   "count": 1195,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "影像医学/核医学",
+   "count": 1062,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "药物学",
+   "count": 973,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "药理学",
+   "count": 936,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "生殖系统/围生医学/新生儿",
+   "count": 915,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "消化系统",
+   "count": 913,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "中西医结合",
+   "count": 884,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "内分泌系统/代谢和营养支持",
+   "count": 807,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "运动系统",
+   "count": 787,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "医学科学部",
+   "subject_l1": "医学免疫学",
+   "count": 758,
+   "rank_in_scope": 15
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地理科学",
+   "count": 3459,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "环境地球科学",
+   "count": 3097,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地质学",
+   "count": 1777,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "海洋科学",
+   "count": 1478,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地球物理学和空间物理学",
+   "count": 1174,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "大气科学",
+   "count": 1039,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "地球化学",
+   "count": 528,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "地球科学部",
+   "subject_l1": "月球与行星科学",
+   "count": 41,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "机械设计与制造",
+   "count": 3756,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "建筑与土木工程",
+   "count": 3139,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "矿业与冶金工程",
+   "count": 2396,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "无机非金属材料",
+   "count": 2310,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "金属材料",
+   "count": 1649,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "有机高分子材料",
+   "count": 1586,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "工程热物理与能源利用",
+   "count": 1581,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "电气科学与工程",
+   "count": 1406,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "环境工程",
+   "count": 1208,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "水利工程",
+   "count": 1118,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "海洋工程",
+   "count": 550,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "交通与运载工程",
+   "count": 3,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "工程与材料科学部",
+   "subject_l1": "新概念材料与材料共性科学",
+   "count": 3,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "凝聚态物理",
+   "count": 1820,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "光学",
+   "count": 1238,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "固体力学",
+   "count": 1221,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "统计与运筹",
+   "count": 1097,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "微分方程与动力系统",
+   "count": 997,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "分析学",
+   "count": 929,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "代数与几何",
+   "count": 795,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "计算数学",
+   "count": 741,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "流体力学",
+   "count": 719,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "核技术及其应用",
+   "count": 660,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "动力学与控制",
+   "count": 587,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "数学与其他学科的交叉",
+   "count": 524,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "等离子体物理",
+   "count": 517,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "加速器、反应堆与探测器",
+   "count": 480,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "数理科学部",
+   "subject_l1": "基础物理",
+   "count": 456,
+   "rank_in_scope": 15
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "农学基础与作物学",
+   "count": 2114,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "食品科学",
+   "count": 2000,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "生态学",
+   "count": 1693,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "植物学",
+   "count": 1675,
+   "rank_in_scope": 4
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "园艺学与植物营养学",
+   "count": 1583,
+   "rank_in_scope": 5
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "微生物学",
+   "count": 1579,
+   "rank_in_scope": 6
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "林学与草学",
+   "count": 1542,
+   "rank_in_scope": 7
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "植物保护学",
+   "count": 1352,
+   "rank_in_scope": 8
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "神经科学与心理学",
+   "count": 1192,
+   "rank_in_scope": 9
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "兽医学",
+   "count": 1173,
+   "rank_in_scope": 10
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "遗传学与生物信息学",
+   "count": 1167,
+   "rank_in_scope": 11
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "畜牧学",
+   "count": 1040,
+   "rank_in_scope": 12
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "生物物理与生物化学",
+   "count": 1024,
+   "rank_in_scope": 13
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "动物学",
+   "count": 990,
+   "rank_in_scope": 14
+  },
+  {
+   "division_name": "生命科学部",
+   "subject_l1": "细胞生物学",
+   "count": 923,
+   "rank_in_scope": 15
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "管理科学与工程",
+   "count": 2123,
+   "rank_in_scope": 1
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "工商管理",
+   "count": 1811,
+   "rank_in_scope": 2
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "宏观管理与政策",
+   "count": 1758,
+   "rank_in_scope": 3
+  },
+  {
+   "division_name": "管理科学部",
+   "subject_l1": "经济科学",
+   "count": 1541,
+   "rank_in_scope": 4
+  }
+ ],
+ "top_subjects_l1_meta": [
+  {
+   "scope": "信息科学部",
+   "candidates": 7,
+   "shown": 7,
+   "shown_count": 13327,
+   "other_count": 0,
+   "total_count": 13327,
+   "unknown_count": 10
+  },
+  {
+   "scope": "化学科学部",
+   "candidates": 9,
+   "shown": 9,
+   "shown_count": 14486,
+   "other_count": 0,
+   "total_count": 14486,
+   "unknown_count": 0
+  },
+  {
+   "scope": "医学科学部",
+   "candidates": 35,
+   "shown": 15,
+   "shown_count": 21588,
+   "other_count": 7007,
+   "total_count": 28595,
+   "unknown_count": 1
+  },
+  {
+   "scope": "地球科学部",
+   "candidates": 8,
+   "shown": 8,
+   "shown_count": 12593,
+   "other_count": 0,
+   "total_count": 12593,
+   "unknown_count": 6
+  },
+  {
+   "scope": "工程与材料科学部",
+   "candidates": 13,
+   "shown": 13,
+   "shown_count": 20705,
+   "other_count": 0,
+   "total_count": 20705,
+   "unknown_count": 95
+  },
+  {
+   "scope": "数理科学部",
+   "candidates": 36,
+   "shown": 15,
+   "shown_count": 12781,
+   "other_count": 3624,
+   "total_count": 16405,
+   "unknown_count": 0
+  },
+  {
+   "scope": "生命科学部",
+   "candidates": 22,
+   "shown": 15,
+   "shown_count": 21047,
+   "other_count": 3840,
+   "total_count": 24887,
+   "unknown_count": 89
+  },
+  {
+   "scope": "管理科学部",
+   "candidates": 4,
+   "shown": 4,
+   "shown_count": 7233,
+   "other_count": 0,
+   "total_count": 7233,
+   "unknown_count": 0
+  }
+ ],
+ "by_source": {
+  "contributions": {
+   "grok": 135783,
+   "atria": 1845,
+   "pkg": 32815
+  },
+  "multi_source_projects": 5207
+ },
+ "coverage": {
+  "by_year": [
+   {
+    "year": 1986,
+    "have": 0,
+    "portal": 3433,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1987,
+    "have": 0,
+    "portal": 3019,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1988,
+    "have": 0,
+    "portal": 2891,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1989,
+    "have": 0,
+    "portal": 3066,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1990,
+    "have": 0,
+    "portal": 3475,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1991,
+    "have": 0,
+    "portal": 3664,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1992,
+    "have": 0,
+    "portal": 3626,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1993,
+    "have": 0,
+    "portal": 3634,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1994,
+    "have": 0,
+    "portal": 3587,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1995,
+    "have": 0,
+    "portal": 3542,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1996,
+    "have": 0,
+    "portal": 3752,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1997,
+    "have": 0,
+    "portal": 3830,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1998,
+    "have": 0,
+    "portal": 4072,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 1999,
+    "have": 0,
+    "portal": 4165,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 2000,
+    "have": 0,
+    "portal": 6095,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 2001,
+    "have": 0,
+    "portal": 6743,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 2002,
+    "have": 0,
+    "portal": 8748,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 2003,
+    "have": 0,
+    "portal": 8849,
+    "rate_portal": 0.0
+   },
+   {
+    "year": 2004,
+    "have": 6,
+    "portal": 10783,
+    "rate_portal": 0.0006
+   },
+   {
+    "year": 2005,
+    "have": 4,
+    "portal": 11854,
+    "rate_portal": 0.0003
+   },
+   {
+    "year": 2006,
+    "have": 3,
+    "portal": 12742,
+    "rate_portal": 0.0002
+   },
+   {
+    "year": 2007,
+    "have": 5,
+    "portal": 14345,
+    "rate_portal": 0.0003
+   },
+   {
+    "year": 2008,
+    "have": 7,
+    "portal": 16896,
+    "rate_portal": 0.0004
+   },
+   {
+    "year": 2009,
+    "have": 11,
+    "portal": 19935,
+    "rate_portal": 0.0006
+   },
+   {
+    "year": 2010,
+    "have": 15,
+    "portal": 25973,
+    "rate_portal": 0.0006
+   },
+   {
+    "year": 2011,
+    "have": 21,
+    "portal": 33962,
+    "rate_portal": 0.0006
+   },
+   {
+    "year": 2012,
+    "have": 35,
+    "portal": 37067,
+    "rate_portal": 0.0009
+   },
+   {
+    "year": 2013,
+    "have": 95,
+    "portal": 37409,
+    "rate_portal": 0.0025
+   },
+   {
+    "year": 2014,
+    "have": 858,
+    "portal": 36351,
+    "rate_portal": 0.0236
+   },
+   {
+    "year": 2015,
+    "have": 9069,
+    "portal": 38259,
+    "rate_portal": 0.237
+   },
+   {
+    "year": 2016,
+    "have": 25169,
+    "portal": 39749,
+    "rate_portal": 0.6332,
+    "report": 41184,
+    "rate_report": 0.6111
+   },
+   {
+    "year": 2017,
+    "have": 39951,
+    "portal": 42893,
+    "rate_portal": 0.9314,
+    "report": 44105,
+    "rate_report": 0.9058
+   },
+   {
+    "year": 2018,
+    "have": 40811,
+    "portal": 43444,
+    "rate_portal": 0.9394,
+    "report": 44476,
+    "rate_report": 0.9176
+   },
+   {
+    "year": 2019,
+    "have": 27031,
+    "portal": 43888,
+    "rate_portal": 0.6159,
+    "report": 44931,
+    "rate_report": 0.6016
+   },
+   {
+    "year": 2020,
+    "have": 7434,
+    "portal": 44416,
+    "rate_portal": 0.1674,
+    "report": 45700,
+    "rate_report": 0.1627
+   },
+   {
+    "year": 2021,
+    "have": 629,
+    "portal": 47205,
+    "rate_portal": 0.0133,
+    "report": 48800,
+    "rate_report": 0.0129
+   },
+   {
+    "year": 2022,
+    "have": 215,
+    "portal": 50012,
+    "rate_portal": 0.0043,
+    "report": 51900,
+    "rate_report": 0.0041
+   },
+   {
+    "year": 2023,
+    "have": 6,
+    "portal": 51542,
+    "rate_portal": 0.0001,
+    "report": 52547,
+    "rate_report": 0.0001
+   },
+   {
+    "year": 2024,
+    "have": 197
+   },
+   {
+    "year": 2025,
+    "have": 0,
+    "report": 58800,
+    "rate_report": 0.0
+   }
+  ],
+  "sources": [
+   "portal",
+   "report"
+  ],
+  "note": "门户序列与本地数据同源(kd.nsfc.cn)；年报序列来自基金委年度报告。两套口径不一致，不相加。"
+ }
+}
